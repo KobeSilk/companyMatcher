@@ -1,0 +1,181 @@
+UID,Company Name,Company Industry,Company Employee Range,company_cleaned,website_cleaned
+SN1,Ab Inbev,Manufacturing,10001+,ab inbev,ab-inbev
+SN2,Adb Safegate,Aviation and Aerospace Component Manufacturing,1001 to 5000,adb safegate,adbsafegate
+SN3,Aertssen Group,Construction,1001 to 5000,aertssen,aertssen
+SN4,Alpro,Food Production,1001 to 5000,alpro,alpro
+SN5,Argenta,Banking,1001 to 5000,argenta,argenta
+SN6,Arvesta,Farming,1001 to 5000,arvesta,arvesta
+SN7,Attentia,Human Resources,501 to 1000,attentia,attentia
+SN8,Axi Group,Software Development,201 to 500,axi,axi
+SN9,Axxes It Consultancy,IT Services and IT Consulting,201 to 500,axxes it consultancy,axxes
+SN10,Azelis,Chemical Manufacturing,1001 to 5000,azelis,azelis
+SN11,Baloise Be,Insurance,1001 to 5000,baloise be,baloise
+SN12,Barry Callebaut Belgium N.V.,Food Production,?,barry callebaut belgium,
+SN13,Bdo,Accounting,10001+,bdo,bdo
+SN14,Bluecrux,Business Consulting and Services,201 to 500,bluecrux,bluecrux
+SN15,Boortmalt,Food and Beverage Manufacturing,1001 to 5000,boortmalt,boortmalt
+SN16,Bridgestone Emea,Motor Vehicle Manufacturing,10001+,bridgestone emea,bridgestone-emea
+SN17,Brussels Airlines,Airlines and Aviation,1001 to 5000,brussels airlines,brusselsairlines
+SN18,Brussels Airport,Airlines and Aviation,1001 to 5000,brussels airport,brusselsairport
+SN19,Burger Brands Belgium,Restaurants,501 to 1000,burger brands belgium,quick
+SN20,Carglass Belgium,Motor Vehicle Manufacturing,1001 to 5000,carglass belgium,carglass
+SN21,Carrefour Belgium,Retail,10001+,carrefour belgium,carrefour
+SN22,Cartamundi,Entertainment Providers,1001 to 5000,cartamundi,cartamundi
+SN23,Casa International,Retail,1001 to 5000,casa international,casashops
+SN24,Cegeka,IT Services and IT Consulting,5001 to 10000,cegeka,cegeka
+SN25,Cheops Technology,IT Services and IT Consulting,201 to 500,cheops technology,cheops
+SN26,Christeyns,Chemical Manufacturing,501 to 1000,christeyns,christeyns
+SN27,Circet Benelux,Telecommunications,1001 to 5000,circet benelux,circet-benelux
+SN28,Colruyt Group,Retail,10001+,colruyt,colruytgroup
+SN29,Comfort Energy,Oil and Gas,201 to 500,comfort energy,comfortenergy
+SN30,Datashift,IT Services and IT Consulting,51 to 200,datashift,datashift
+SN31,Dela Belgium,Insurance,501 to 1000,dela belgium,dela
+SN32,Delhaize Belgium,Retail,10001+,delhaize belgium,delhaize
+SN33,Deliverect,Hospitality,201 to 500,deliverect,deliverect
+SN34,Delta Engineering,Packaging and Containers Manufacturing,51 to 200,delta engineering,delta-engineering
+SN35,Deme Group,Civil Engineering,5001 to 10000,deme,deme-group
+SN36,Dester,Packaging and Containers Manufacturing,501 to 1000,dester,dester
+SN37,Dpg Media België,Media Production,1001 to 5000,dpg media belgi,dpgmedia
+SN38,Duomed Group,Medical Equipment Manufacturing,501 to 1000,duomed,duomedgroup
+SN39,Eco3,Printing Services,1001 to 5000,eco3,eco3
+SN40,Empwr Nutrition Group,Food and Beverage Services,1001 to 5000,empwr nutrition,empwrnutrition
+SN41,Esko,Software Development,1001 to 5000,esko,esko
+SN42,Etex,Construction,10001+,etex,etexgroup
+SN43,Eurofins Ecca,,51 to 200,eurofins ecca,ecca
+SN44,Euroports,"Transportation, Logistics, Supply Chain and Storage",1001 to 5000,euroports,euroports
+SN45,Flyinggroup,Airlines and Aviation,201 to 500,flyinggroup,flyinggroup
+SN46,Fnac Vanden Borre,Retail,1001 to 5000,fnac vanden borre,
+SN47,Fujifilm Belgium Nv,Chemical Manufacturing,51 to 200,fujifilm belgium,fujifilmbelgium
+SN48,Fujifilm Electronic Materials,Chemical Manufacturing,201 to 500,fujifilm electronic materials,fujifilm
+SN49,Gorilla - Energy Data Applications,Software Development,51 to 200,gorilla  energy data applications,gorilla
+SN50,Greenyard,Food and Beverage Manufacturing,5001 to 10000,greenyard,greenyard
+SN51,H.Essers,"Transportation, Logistics, Supply Chain and Storage",5001 to 10000,hessers,essers
+SN52,Human8,Market Research,501 to 1000,human8,wearehuman8
+SN53,Iko Waterproofing And Insulation Eu,Wholesale Building Materials,1001 to 5000,iko waterproofing and insulation,bit
+SN54,In The Pocket,IT Services and IT Consulting,201 to 500,in the pocket,inthepocket
+SN55,Indaver,Environmental Services,1001 to 5000,indaver,indaver
+SN56,Io,"Technology, Information and Internet",1001 to 5000,io,iodigital
+SN57,Iss Facility Services Belgium & Luxembourg,Facilities Services,5001 to 10000,iss facility services belgium  luxembourg,be
+SN58,Jbc,Retail Apparel and Fashion,201 to 500,jbc,jbc
+SN59,Katoen Natie,"Transportation, Logistics, Supply Chain and Storage",10001+,katoen natie,katoennatie
+SN60,Kinepolis,Entertainment,1001 to 5000,kinepolis,kinepolis
+SN61,Kpmg Belgium,Business Consulting and Services,1001 to 5000,kpmg belgium,kpmg
+SN62,La Lorraine Bakery Group Nv,Food and Beverage Manufacturing,5001 to 10000,la lorraine bakery,llbg
+SN63,Lidl Belgium & Luxemburg,Retail,10001+,lidl belgium  luxemburg,werkenbijlidl
+SN64,Lotus Bakeries,Food and Beverage Manufacturing,1001 to 5000,lotus bakeries,lotusbakeries
+SN65,Macadam Europe,Automotive,501 to 1000,macadam europe,macadam
+SN66,Manuchar,Chemical Manufacturing,1001 to 5000,manuchar,manuchar
+SN67,Manuport Logistics,"Transportation, Logistics, Supply Chain and Storage",501 to 1000,manuport logistics,manuport-logistics
+SN68,Materialise,Software Development,1001 to 5000,materialise,materialise
+SN69,Meat&More,Food and Beverage Manufacturing,1001 to 5000,meatmore,meatandmore
+SN70,Mediahuis Nv,Media Production,1001 to 5000,mediahuis,mediahuis
+SN71,Nikon Metrology,Industrial Machinery Manufacturing,501 to 1000,nikon metrology,nikon
+SN72,Nipro Europe Group Companies,Medical Equipment Manufacturing,1001 to 5000,nipro europe  companies,nipro-group
+SN73,Nipro Pharmapackaging,Packaging and Containers Manufacturing,1001 to 5000,nipro pharmapackaging,nipro-group
+SN74,Oh'Green,Retail,201 to 500,ohgreen,ohgreen
+SN75,Oleon,Chemical Manufacturing,1001 to 5000,oleon,oleon
+SN76,Omega Pharma A Perrigo Company,Manufacturing,51 to 200,omega pharma a perrigo,perrigo
+SN77,Omp,Software Development,1001 to 5000,omp,omp
+SN78,Ontex,Consumer Goods,5001 to 10000,ontex,ontex
+SN79,P&V Panels,Electrical Equipment Manufacturing,201 to 500,pv panels,pnvpanels
+SN80,Parkwind,Renewable Energy Power Generation,51 to 200,parkwind,parkwind
+SN81,Pia Group,Financial Services,501 to 1000,pia,
+SN82,Protime,Software Development,501 to 1000,protime,protime
+SN83,Puratos,Food and Beverage Manufacturing,10001+,puratos,puratos
+SN84,Pwc Belgium,Accounting,1001 to 5000,pwc belgium,pwc
+SN85,Q8,Oil and Gas,501 to 1000,q8,q8
+SN86,Qbd Group,Business Consulting and Services,501 to 1000,qbd,qbdgroup
+SN87,Robovision,"Technology, Information and Internet",51 to 200,robovision,robovision
+SN88,Samsonite,Manufacturing,1001 to 5000,samsonite,samsonite
+SN89,Sbb Accountants & Advisors,Financial Services,501 to 1000,sbb accountants  advisors,sbb
+SN90,Sd Worx,Human Resources Services,5001 to 10000,sd worx,sdworx
+SN91,Sd Worx Belgium,Human Resources,1001 to 5000,sd worx belgium,sdworx
+SN92,Sea-Invest,"Transportation, Logistics, Supply Chain and Storage",5001 to 10000,seainvest,sea-invest
+SN93,Securitas Belgium,Security and Investigations,5001 to 10000,securitas belgium,securitas
+SN94,Seris Belgium,Security and Investigations,1001 to 5000,seris belgium,seris
+SN95,Showpad,Software Development,501 to 1000,showpad,showpad
+SN96,Smulders,Construction,1001 to 5000,smulders,smulders
+SN97,Solvint,Business Consulting and Services,51 to 200,solvint,solvint
+SN98,Spacewell | A Nemetschek Company,IT Services and IT Consulting,201 to 500,spacewell  a nemetschek,spacewell
+SN99,Stefanini Emea,IT Services and IT Consulting,10001+,stefanini emea,stefanini
+SN100,Stg,Wholesale,501 to 1000,,stg-group
+SN101,Stream Software,Software Development,51 to 200,stream software,streamsoftware
+SN102,Tcr,Airlines and Aviation,1001 to 5000,tcr,tcr-group
+SN103,Team.Blue,Software Development,1001 to 5000,teamblue,team
+SN104,Telenet,Telecommunications,1001 to 5000,telenet,telenet
+SN105,Terumo Europe,Medical Equipment Manufacturing,1001 to 5000,terumo europe,terumo-europe
+SN106,Tes,Renewable Energy Power Generation,51 to 200,tes,tes-h2
+SN107,The Cookware Company,Consumer Goods,1001 to 5000,the cookware,cookware-co
+SN108,Tom&Co,Retail,51 to 200,tomco,tomandco
+SN109,Tomorrowland,Entertainment,51 to 200,tomorrowland,tomorrowland
+SN110,Tomra Food,Automation Machinery Manufacturing,1001 to 5000,tomra food,tomra
+SN111,Trendminer,Software Development,51 to 200,trendminer,trendminer
+SN112,Van De Velde,Retail Apparel and Fashion,1001 to 5000,van de velde,vandevelde
+SN113,Van Havermaet,Accounting,201 to 500,van havermaet,vanhavermaet
+SN114,Vanbreda Risk & Benefits,Insurance,501 to 1000,vanbreda risk  benefits,vanbreda
+SN115,Vandemoortele,Food and Beverage Manufacturing,1001 to 5000,vandemoortele,vandemoortele
+SN116,Vandersanden,Building Materials,501 to 1000,vandersanden,vandersanden
+SN117,Volvo Car Gent,Automotive,5001 to 10000,volvo car gent,volvocars
+SN118,Vpk Group,Paper and Forest Product Manufacturing,5001 to 10000,vpk,vpkgroup
+SN119,Vynova Group,Chemical Manufacturing,1001 to 5000,vynova,vynova-group
+SN120,What’S Cooking Group,Food and Beverage Manufacturing,1001 to 5000,whats cooking,whatscooking
+SN121,Willemen Infra,Civil Engineering,1001 to 5000,willemen infra,willemeninfra
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
+,nan,,,nan,
