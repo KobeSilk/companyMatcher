@@ -6,12 +6,10 @@ import streamlit as st
 from urllib.parse import urlparse
 #Loading data
 
-common_words = r'\b(sa|holding|groep|holdings|group|groups|Inc\.?|incorporated|LLC|limited|corporation|corp\.?)\b'
+#Common words to filter from dataset, feel free to add more
+common_words = r'\b(sa|holding|groep|holdings|group|groups|inc\.?|incorporated|llc|limited|corporation|corp\.?)\b'
 
-uploaded_file_a = st.file_uploader("Upload List a", type=["csv"])
-if uploaded_file_a:
-    list_a = pd.read_csv(uploaded_file_a)
-
+#Function to clean company column for better matching
 def cleanCompanies(df, column):
     df[column] = df[column].astype(str)
     #Make lowercase
@@ -26,30 +24,33 @@ def cleanCompanies(df, column):
     df["company_cleaned"] = df["company_cleaned"].replace(r'[^a-zA-Z0-9 ]', '', regex=True)
     return df
 
+#Function to extract domain from URL
 def extract_domain(url):
     parsed_url = urlparse(url)
     # Split by '.' and get the second element (the middle part)
     return parsed_url.netloc.split('.')[1] if len(parsed_url.netloc.split('.')) > 2 else parsed_url.netloc.split('.')[0]
 
+#Apply domain extraction to dataframe column
 def cleanWebsite(df, column):
     df['website_cleaned'] = df[column].astype(str).apply(extract_domain)
     return df
 
-companyName = st.selectbox("Select Company Name Column: ", list_a.columns)
+#Upload file
+uploaded_file = st.file_uploader("Upload List a", type=["csv"])
+if uploaded_file:
+    df = pd.read_csv(uploaded_file)
 
-cleaned_a = cleanCompanies(list_a,companyName)
-
-companyWebsite = st.selectbox("Select Company Website Column: ", list_a.columns)
-
-cleaned_b = cleanWebsite(cleaned_a, companyWebsite)
-
-cleaned_b
+companyName = st.selectbox("Select Company Name Column: ", df.columns)
+df_cleaned = cleanCompanies(df,companyName)
+companyWebsite = st.selectbox("Select Company Website Column: ", df.columns)
+df_cleaned = cleanWebsite(df_cleaned, companyWebsite)
+df_cleaned
 
 st.write("Select columns to keep:")
 columns_to_keep = st.multiselect("Select columns", options=cleaned_a.columns.tolist())
 if columns_to_keep:
     # Filter the dataframe with the selected columns
-    filtered_df = cleaned_a[columns_to_keep]
+    filtered_df = df_cleaned[columns_to_keep]
     
     st.write("Here is the filtered data:")
     st.dataframe(filtered_df)
