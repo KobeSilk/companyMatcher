@@ -23,20 +23,10 @@ b_name_column = st.selectbox("Company Name column from list b", list_b.columns)
 
 list_a = list_a[list_a[a_name_column].notna()]
 list_b = list_b[list_b[b_name_column].notna()]
+
 dfs = [list_a,list_b]
 
 def merge_dataframes_on_column(dfs, column_name, how='inner'):
-    """
-    Merge multiple DataFrames on a specific column.
-
-    Parameters:
-    dfs (list of pd.DataFrame): List of DataFrames to merge.
-    column_name (str): The column name to merge on.
-    how (str): Type of merge to perform ('left', 'right', 'outer', 'inner'). Default is 'inner'.
-
-    Returns:
-    pd.DataFrame: Merged DataFrame containing all columns.
-    """
     # Start by merging the first DataFrame with the next, iterating through the list
     merged_df = dfs[0]
     for df in dfs[1:]:
