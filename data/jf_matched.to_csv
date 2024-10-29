@@ -1,0 +1,1524 @@
+,List1_Name,List2_Name,Similarity
+0,agir,agristo,0.819047619047619
+1,agir,agiliz,0.825
+2,jamais,amista,0.8222222222222223
+3,21 agency,tpo agency,0.825925925925926
+4,2ama,am,0.8333333333333334
+5,3isone,ion,0.8333333333333334
+6,4p square  expand your possibilities,4p square,0.85
+7,9altitudes,9altitudes,1.0
+8,aaltje vincent,alten,0.8071428571428572
+9,abb,ab inbev,0.8333333333333333
+10,abbvie,ab inbev,0.8022222222222223
+11,abeiffage,ab eiffage,0.9733333333333334
+12,abesco,desco,0.8222222222222223
+13,ac services,actum services,0.9428571428571428
+14,ac services,altrad services,0.8127272727272729
+15,aca,macadam,0.8095238095238096
+16,aca,acc,0.8222222222222222
+17,accent,acerta,0.8222222222222222
+18,accent,accenture,0.9333333333333333
+19,accent,acc,0.8833333333333334
+20,accent jobs,accenture,0.8424242424242424
+21,accent jobs,acc,0.8303030303030302
+22,accenture,accenture,1.0
+23,accenture,as adventure,0.8083333333333333
+24,accenture,acc,0.8444444444444443
+25,accenture song,accenture,0.9285714285714286
+26,accenture song,acc,0.8166666666666667
+27,acco be,acc,0.8666666666666668
+28,accomplished,actoplus,0.8
+29,accomplished,acc,0.825
+30,accountingteam,acc,0.8166666666666667
+31,acctueel,accenture,0.8856481481481482
+32,acctueel,actum,0.8133333333333332
+33,acctueel,acc,0.8541666666666666
+34,accur8,accenture,0.8574074074074074
+35,accur8,acc,0.8833333333333334
+36,acg,acc,0.8222222222222222
+37,acor consult,acc,0.8
+38,act consulting,actoplus,0.8208333333333333
+39,action,alcon,0.8400000000000001
+40,action,actoplus,0.8055555555555556
+41,actos,actum,0.8133333333333334
+42,actos,actoplus,0.925
+43,ad media,dpg media,0.8842592592592592
+44,adecco,acc,0.8500000000000001
+45,adecco,desco,0.8222222222222223
+46,adic,aldi,0.8500000000000001
+47,adman agency,adman agency  divisie van respectfully yours,0.8545454545454545
+48,advertised,aertssen,0.8049999999999999
+49,advionics,advipro,0.853968253968254
+50,aft international,casa international,0.8607843137254902
+51,aft international,aft,0.807843137254902
+52,agaris,agristo,0.8793650793650793
+53,agc glass,carglass,0.8366402116402116
+54,agilitas,agilitas,1.0
+55,agilitas,agiliz,0.8916666666666667
+56,agilytic,agilitas,0.8666666666666667
+57,agilytic,agiliz,0.8916666666666667
+58,agisko,agristo,0.8793650793650793
+59,agnitio,agristo,0.8476190476190477
+60,agoria,agomab,0.8444444444444443
+61,agrium,agristo,0.8476190476190476
+62,ahlers logistics,ahlers,0.875
+63,ai,asist,0.82
+64,aikido security,wolf security,0.8119658119658121
+65,akkermans  partners,akka,0.8157894736842105
+66,akkodis,akka,0.8083333333333333
+67,alan,alcon,0.8266666666666667
+68,alan,alten,0.8266666666666667
+69,aldenhuijsen slaapsystemen,aldi,0.8025641025641026
+70,aldes,ahlers,0.8400000000000001
+71,aldes,aldi,0.8483333333333334
+72,aldi,aldi,1.0
+73,alides,azelis,0.8400000000000001
+74,alides,9altitudes,0.8666666666666667
+75,alides,aliaxis,0.8222222222222222
+76,alides,aldi,0.8444444444444443
+77,alkenmaes mechelen,alkenmaes,0.9
+78,all call services,actum services,0.8025592055003818
+79,all call services,altrad services,0.8460130718954247
+80,all ears,ahlers,0.8375000000000001
+81,alleen op avontuur,allen  overy,0.8691919191919192
+82,allgro,alpro,0.8577777777777779
+83,alluvion,alcon,0.8133333333333332
+84,alphabet,apheabio,0.8
+85,alphacredit,icredit,0.8008658008658008
+86,alphacredit,alpro,0.8048484848484848
+87,altez,alten,0.92
+88,altrad,altrad services,0.88
+89,altrad services,actum services,0.8011688311688312
+90,altrad services,altrad services,1.0
+91,altrea logistics,altrad services,0.8478030303030304
+92,altus,alten,0.8133333333333334
+93,amadys,am,0.8222222222222222
+94,amanu,am,0.84
+95,amazon,am,0.8222222222222222
+96,ambits,amista,0.8577777777777779
+97,ambits,am,0.8222222222222222
+98,ambius,amista,0.8222222222222222
+99,ambius,am,0.8222222222222222
+100,amgen,argenta,0.8114285714285714
+101,amgen,am,0.84
+102,amgen,argenx,0.8400000000000001
+103,amon,am,0.8666666666666667
+104,amon,armonea,0.8714285714285714
+105,amon,samsonite,0.8148148148148149
+106,amon,aon,0.9249999999999999
+107,amon,alcon,0.8049999999999999
+108,ampa agency,tpo agency,0.8007575757575758
+109,ampify,am,0.8222222222222222
+110,amplifon,am,0.8
+111,amrop,am,0.84
+112,amteam,amista,0.8222222222222222
+113,amteam,am,0.8222222222222222
+114,amteam,qteam,0.8222222222222223
+115,amvrosia,am,0.8
+116,amybel,am,0.8222222222222222
+117,angelwise,azelis,0.8166666666666667
+118,anoa care,anthony cranes,0.8227513227513228
+119,ants,antenno,0.8083333333333333
+120,ants,antwerp space,0.8384615384615384
+121,antverpia apotheken,antwerp space,0.8122941970310391
+122,antwerp golfschool,antwerp space,0.864957264957265
+123,antwerp law school consultancy,antwerp space,0.8243822843822843
+124,antwerp management school,antwerp space,0.8472820512820513
+125,antwerp powered by creatives,antwerp space,0.8536630036630036
+126,antwerp school of education,antwerp space,0.8568376068376068
+127,antwerp world diamond centre,antwerp space,0.8478021978021978
+128,antwerpen leest,antwerp space,0.8671794871794872
+129,antwerpse parkings,antwerp space,0.8846153846153847
+130,antworks,anthony cranes,0.8083333333333333
+131,antworks,antwerp space,0.8423076923076923
+132,aptean,alten,0.8400000000000001
+133,aptean,partena,0.8412698412698413
+134,aptus,actoplus,0.8274999999999999
+135,argafin,argenta,0.8
+136,argafin,argenx,0.8222222222222222
+137,argus,arxus,0.8933333333333333
+138,arhs,arxus,0.8266666666666667
+139,arhs,mars,0.8333333333333334
+140,arhs,arhs developments,0.8470588235294118
+141,aris  totell,agristo,0.8071428571428572
+142,artes,arvesta,0.8323809523809523
+143,artes,aertssen,0.8274999999999999
+144,asadventure,accenture,0.8242424242424243
+145,asadventure,as adventure service center,0.8419753086419753
+146,asadventure,as adventure,0.9777777777777777
+147,asml,am,0.8500000000000001
+148,assists,asist,0.8704761904761905
+149,astraplus,actoplus,0.825
+150,astraplus,astara,0.8107407407407409
+151,astreva,acerta,0.8042857142857143
+152,astreva,astara,0.8944444444444445
+153,astron,astara,0.8444444444444443
+154,at your service callcenter,at recruitment,0.8021367521367522
+155,ata it,atalian,0.8222222222222222
+156,atalenta,argenta,0.8017857142857143
+157,atalenta,attentia,0.8666666666666667
+158,atalenta,talentbay,0.8366402116402116
+159,atalenta,alten,0.8274999999999999
+160,atalenta,atalian,0.8880952380952382
+161,atalenta,catalent,0.9166666666666666
+162,atalian global services,atalian,0.8608695652173913
+163,athora,anthony cranes,0.8285714285714287
+164,athos care,anthony cranes,0.8295238095238096
+165,athumi,actum,0.8400000000000001
+166,atlas copco,atlas copco,1.0
+167,atlas grow how,atlas copco,0.8597402597402598
+168,attina,attentia,0.9027777777777778
+169,attina,atalian,0.826031746031746
+170,avit,asist,0.8049999999999999
+171,axa,axi,0.8222222222222222
+172,axa,axa,1.0
+173,axa bank,axa,0.8541666666666666
+174,axa partners,axa,0.825
+175,axa partners,axa,0.825
+176,axxit,axxes it consultancy,0.825
+177,axxit,axi,0.8933333333333333
+178,axxit,axxes,0.8133333333333334
+179,az delta,az herentals,0.8402777777777778
+180,azelis corporate services,azelis,0.8480000000000001
+181,bakker,bakkerijaernoudt,0.875
+182,bakker,bank degroof,0.8
+183,bakker  partners,bakkerijaernoudt,0.8568181818181818
+184,bakker and partners,bakkerijaernoudt,0.8429824561403509
+185,bakkerij aernoudt,bakkerijaernoudt,0.9882352941176471
+186,baltimore aircoil,baltimore aircoil international,0.9096774193548387
+187,bank  banque j van breda,bank van breda,0.8595238095238096
+188,bank  banque van breda,bank van breda,0.8701298701298701
+189,bank j van breda,bank van breda,0.9464285714285714
+190,bank jvan breda,bank van breda,0.9866666666666667
+191,banking,bank delen,0.8428571428571429
+192,banking,banijay,0.8
+193,banking,bank degroof,0.8261904761904763
+194,barco,br,0.82
+195,barnes,barbuss,0.8222222222222222
+196,barry callebaut,barry callebaut,1.0
+197,basf antwerp,basf,0.8666666666666666
+198,basf antwerp,psa antwerp,0.8808080808080808
+199,basf antwerpen,basf,0.8571428571428571
+200,basf antwerpen,psa antwerp,0.8411255411255412
+201,basfypc company,basf,0.8533333333333333
+202,basicfit,basf,0.8833333333333334
+203,bd,bdo,0.9111111111111111
+204,bdo,bdo,1.0
+205,bebold,be bold,0.9619047619047619
+206,bebold,beko,0.8
+207,bekaert,beko,0.8083333333333333
+208,bekina,beko,0.825
+209,belfius,eubelius,0.8134920634920636
+210,belgische federale overheidsdiensten,belgische federatie filantropische stichtingen,0.8682951534985195
+211,belmoca,belorta,0.8666666666666668
+212,belron international,belorta,0.8150000000000001
+213,belva,belorta,0.8533333333333333
+214,bender,benedenti,0.8107407407407409
+215,beneo,benton,0.8755555555555556
+216,beneo,beko,0.8266666666666667
+217,beneo,benedenti,0.8488888888888889
+218,benford one,benton,0.8338383838383838
+219,benning,benton,0.8222222222222222
+220,bens mentors,benton,0.8444444444444444
+221,bens mentors,benedenti,0.8055555555555556
+222,benton  engineer your career,benton,0.8428571428571429
+223,benvitec,benton,0.8055555555555556
+224,besix,besix infra support,0.8526315789473684
+225,besix unitec,besix infra support,0.8225146198830409
+226,besolid,be bold,0.8476190476190477
+227,bestmix software,stream software,0.8674145299145298
+228,bewegingnet,benedenti,0.8309764309764309
+229,biocartis,novartis,0.8055555555555555
+230,biolectric,biobest,0.8166666666666667
+231,bis,biscuiterie thijs,0.807843137254902
+232,bizzcontrol,biztory,0.8217171717171717
+233,bizzon,biztory,0.8222222222222222
+234,bizzy,biztory,0.8533333333333333
+235,bleublue,bluu,0.8666666666666667
+236,bloue,bluu,0.8266666666666667
+237,bloue,bluecrux,0.8133333333333332
+238,blue cacao,bluecrux,0.8250000000000001
+239,bmt,bmw,0.8222222222222222
+240,bmw,bmw,1.0
+241,bmw  mini sneyers,bmw,0.807843137254902
+242,bmw via rpc,bmw,0.8303030303030302
+243,bocal,bccl,0.8049999999999999
+244,bofidi,pkf bofidi,0.8111111111111112
+245,bofis,boxs,0.8266666666666667
+246,bol,boels rental,0.8
+247,bollor logistics,gxo logistics,0.8142482517482518
+248,boma,boortmalt,0.8518518518518519
+249,boost your recruitment,stroom recruitment,0.8076846900376312
+250,boostu,bpost,0.8400000000000001
+251,boostu,boxs,0.8
+252,bosch,boxs,0.8266666666666667
+253,boskalis,lotus bakeries,0.8154761904761904
+254,boson content,boston consulting,0.835646053293112
+255,boston consulting,boston consulting,1.0
+256,bpostgroup,bpost,0.9
+257,br bouwgroep,brug,0.8222222222222222
+258,brainbridge  workforce solutions,brainbridge,0.86875
+259,brainbridge technics,brainbridge,0.91
+260,brainbridge workforce solutions,brainbridge,0.870967741935484
+261,brandally,brand quadergy,0.8555555555555555
+262,branding donkeys,brand quadergy,0.8278571428571428
+263,bravehub,br,0.8
+264,brebuild,buildr,0.8375000000000001
+265,brebuild,be bold,0.8017857142857143
+266,brebuild,br,0.8
+267,bright plus,brightwolves,0.8787878787878788
+268,bright plus,brightanalytics,0.8521212121212122
+269,brioval,brightwolves,0.8111111111111111
+270,brioval,br,0.8095238095238095
+271,bristol,agristo,0.8095238095238096
+272,bristol,bridgestone emea,0.8208333333333333
+273,bristol,brustor,0.8476190476190477
+274,bristol,brightwolves,0.85
+275,bristol,br,0.8095238095238095
+276,bruggemanmaes infra,brug,0.8421052631578947
+277,brugpensoen,brustor,0.806060606060606
+278,brugpensoen,brug,0.8727272727272728
+279,brunel,brussels airport,0.8006944444444445
+280,brunel,br,0.8222222222222222
+281,brunel,brug,0.825
+282,brunel,brussels airport,0.8006944444444445
+283,brunel,br,0.8222222222222222
+284,brunel,brug,0.825
+285,brussels school of governance,brussels airlines,0.8326861779194437
+286,brutaal,brustor,0.8
+287,brutaal,brightanalytics,0.8019047619047619
+288,brutaal,br,0.8095238095238095
+289,brutaal,brug,0.8083333333333333
+290,bruxellespropret,brussels airport,0.8117424242424243
+291,bryce,br,0.84
+292,bsure,square,0.8222222222222223
+293,bubka  b corp certified,bubka,0.8434782608695652
+294,buckman,bubka,0.8323809523809523
+295,building people,buildr,0.8333333333333334
+296,buildwise,buildr,0.8777777777777778
+297,business markers,buysse  partners,0.8090909090909091
+298,but,brustor,0.8285714285714287
+299,buysse  partners  private equity  real estate,buysse  partners,0.8711111111111112
+300,buysse  partners  private equity  real estate investments,buysse  partners,0.856140350877193
+301,buysse  partners invest,buysse  partners,0.9391304347826087
+302,bw engineering,dd engineering,0.9047619047619048
+303,callens,ca,0.8095238095238095
+304,callens,catalent,0.8238095238095238
+305,candriam,ca,0.8
+306,cantilis,ca,0.8
+307,capco,ca,0.84
+308,capgemini,capgemini,1.0
+309,capitalize,catalent,0.8266666666666667
+310,capitant,ca,0.8
+311,capitant,capgemini,0.8087962962962962
+312,capitant,catalent,0.8666666666666667
+313,capitant,captain jane,0.8402777777777778
+314,captain  stoker,captain jane,0.87
+315,captainwork,captain jane,0.843939393939394
+316,capture,ca,0.8095238095238095
+317,capture,captain jane,0.8261904761904763
+318,cardoen,ca,0.8095238095238095
+319,cardoen,carerix,0.8
+320,cardoen,credon,0.8642857142857143
+321,care talents,catalent,0.8444444444444443
+322,carglass,cargill,0.8678571428571429
+323,carglass,ca,0.8
+324,carglass,carglass,1.0
+325,carglass,cargill,0.8678571428571429
+326,carglass,ca,0.8
+327,carglass,carglass,1.0
+328,cast4all technologies,catalent,0.8015873015873016
+329,casteleyn,catalent,0.8
+330,casteleyn,catalay,0.8052910052910053
+331,catalyst constellations,catalent,0.8445652173913043
+332,catalyst constellations,catalay,0.8236024844720496
+333,catcoon,ca,0.8095238095238095
+334,cazimir,ca,0.8095238095238095
+335,cca international,casa international,0.8365196078431372
+336,cdm smith,cdm stravitec,0.8346764346764346
+337,cepa,cegeka,0.8
+338,ceusters,dester,0.8194444444444445
+339,charistar,christeyns,0.8044444444444444
+340,chase,hansea,0.8222222222222223
+341,chase,ca,0.82
+342,cheops technology nv,cheops technology,0.9700000000000001
+343,chep,cheops technology,0.8215686274509804
+344,christies real estate,christeyns,0.8361904761904763
+345,circet,circet,1.0
+346,circl,circet,0.8933333333333334
+347,circl,recticel,0.8083333333333332
+348,circulife,circet,0.8222222222222222
+349,cisco,cisco systems,0.8769230769230769
+350,citymesh,digi  citymesh,0.8154761904761904
+351,ckv,ckv bank,0.8541666666666666
+352,cmo projects,aprojects,0.8101851851851851
+353,cocacola europacific partners,cocacola european partners,0.9167992926613617
+354,cocacola europacific partners,cocacola,0.8551724137931035
+355,cocacola european partners,cocacola european partners,1.0
+356,cocacola european partners,cocacola,0.8615384615384615
+357,cokoen,cookware,0.8022222222222223
+358,colibry,colruyt,0.8666666666666668
+359,coll,colruyt,0.8083333333333333
+360,coll,coolblue,0.8666666666666667
+361,coll,collectief,0.88
+362,colliers,coolblue,0.8
+363,colliers,collectief,0.8366666666666667
+364,colruyt  fine food,colruyt,0.8777777777777778
+365,colruyt laagste prijzen,colruyt,0.8608695652173913
+366,compaan hoogstraten,companions,0.8442105263157895
+367,compusearch,computer task,0.8435314685314685
+368,computacenter,comfort energy,0.8102564102564103
+369,computacenter,computer task,0.8876923076923078
+370,computerland,companions,0.8200000000000001
+371,computerland,computer task,0.8884615384615385
+372,concertzender,contec,0.8354700854700855
+373,conero,covestro,0.8555555555555556
+374,conero,conxion,0.8222222222222222
+375,conero,contec,0.8444444444444443
+376,conessence,contec,0.8444444444444444
+377,confide,conxion,0.8
+378,confide,contec,0.8222222222222222
+379,connect cycling,contec,0.8211111111111111
+380,connect4flow,contec,0.8444444444444444
+381,connectingexpertise,contec,0.8014619883040937
+382,connectingsouls,contec,0.8211111111111111
+383,connection,conxion,0.8344444444444444
+384,connection,contec,0.8677777777777779
+385,connectsharelead,contec,0.8152777777777778
+386,conneqtin,contec,0.8107407407407409
+387,conneqtr,covestro,0.8
+388,conneqtr,contec,0.8269444444444445
+389,connexi,conxion,0.8666666666666668
+390,connexi,contec,0.8222222222222222
+391,consept,contec,0.8222222222222222
+392,consip,conxion,0.8222222222222222
+393,construct0,contec,0.8444444444444444
+394,construct0,ka construct,0.8833333333333333
+395,construi,covestro,0.8
+396,construi,contec,0.8055555555555556
+397,construi,ka construct,0.8194444444444445
+398,consultink,conxion,0.8166666666666667
+399,contec  industrial automation solutions,contec,0.8307692307692308
+400,contentement coaching,contec,0.8571428571428571
+401,continental,conxion,0.806060606060606
+402,continental,contec,0.8575757575757577
+403,continuetech,contec,0.9
+404,conway  the convenience company,conway,0.8387096774193548
+405,conway  the convenience company,contec,0.8118279569892473
+406,cooble,coolblue,0.9027777777777778
+407,cooble,cookware,0.8055555555555556
+408,copus,actoplus,0.875
+409,corequest,colruyt,0.8052910052910053
+410,corequest,cordeel,0.8296296296296296
+411,coreso,cordeel,0.8222222222222222
+412,coreso,covestro,0.8555555555555556
+413,coretalents,cordeel,0.8217171717171717
+414,coretalents,catalent,0.8105519480519481
+415,corex,cordeel,0.8533333333333333
+416,corex,carerix,0.8114285714285714
+417,corilus,cordeel,0.8
+418,cornerbrix,carerix,0.8371428571428572
+419,coru,colruyt,0.8857142857142857
+420,coru,cordeel,0.8083333333333333
+421,cosmar industries,orfit industries,0.8334276018099548
+422,cotac,contec,0.8577777777777779
+423,coventuris,covestro,0.87
+424,covias,covestro,0.8055555555555556
+425,cpmotors,covestro,0.8
+426,creando,credon,0.9277777777777778
+427,creavit,icredit,0.8095238095238096
+428,credendo,credon,0.9166666666666667
+429,credit brokers bnpparibasfortis,credon,0.8387096774193548
+430,creditpeopleeu,credon,0.8380952380952381
+431,credox subsidie,credon,0.8333333333333334
+432,crelan,credon,0.8444444444444443
+433,cressendo,tessenderlo,0.8047138047138048
+434,cressendo,resengo,0.8412698412698413
+435,criteo,christeyns,0.8
+436,criteo,credon,0.8222222222222222
+437,cronos leuven,cronos,0.8923076923076924
+438,cronos public services,cronos,0.8545454545454545
+439,cronos security,cronos,0.88
+440,ctac,ca,0.8500000000000001
+441,ctac,ca,0.8500000000000001
+442,ctech,contec,0.8400000000000001
+443,ctg  computer task,computer task,0.8243589743589744
+444,cvo brussel,pack brussels,0.8368298368298368
+445,daenens,danone,0.826031746031746
+446,dandoy,danone,0.8444444444444443
+447,danone,danone,1.0
+448,dany tongeren,danone,0.8743589743589745
+449,das,datashift,0.8222222222222222
+450,das,datasense,0.8222222222222222
+451,das,dassy workwear,0.8166666666666667
+452,davo,danone,0.8
+453,daymaker,foodmaker,0.8055555555555555
+454,dca,dca bouwbedrijf,0.8133333333333334
+455,consultijn,conxion,0.8166666666666667
+456,contentfabriek,contec,0.8380952380952381
+457,cronos,cronos,1.0
+458,cronos,companions,0.8
+459,cronos,credon,0.8222222222222222
+460,groeidenker,goed,0.8090909090909092
+461,stroomlijn,storm,0.8133333333333332
+462,stroomlijn,stroom recruitment,0.8488888888888889
+463,verbindende boom,verina bourdon,0.8134469696969697
+464,wingerd,ing,0.8095238095238096
+465,debottomline,deloitte,0.8174603174603174
+466,decathlon,decathlon,1.0
+467,decix,dnix,0.8049999999999999
+468,decomo,desco,0.8577777777777779
+469,defactum,actum,0.875
+470,dekabo,dela,0.8
+471,dela,delta engineering,0.8215686274509804
+472,dela,dela,1.0
+473,dela,delhaize,0.8833333333333334
+474,delaere  lombaert,dela,0.8470588235294118
+475,delaval,dela,0.9142857142857143
+476,delavie,deloitte,0.8458333333333333
+477,delavie,deliverect,0.8344444444444444
+478,delavie,dela,0.9142857142857143
+479,delavie,delhaize,0.9083333333333333
+480,delaware,dela,0.9
+481,delaware,delhaize,0.825
+482,deldo,deloitte,0.8366666666666667
+483,deldo,dela,0.8483333333333334
+484,delen private bank,dela,0.8185185185185185
+485,delhaize,deloitte,0.825
+486,delhaize,dela,0.8833333333333334
+487,delhaize,delhaize,1.0
+488,deloitte accountancy,deloitte,0.88
+489,deloitte accountancy,dela,0.8133333333333334
+490,deloitte,deloitte,1.0
+491,deloitte,deliverect,0.8094444444444445
+492,deloitte,devoteam,0.8
+493,deloitte,delhaize,0.825
+494,deloitte legal,deloitte,0.9142857142857143
+495,delrey antwerpen,dela,0.825
+496,delta investment tracker,dela,0.8055555555555556
+497,delta source,dela,0.8444444444444443
+498,deltatemp,deloitte,0.8638888888888888
+499,deltatemp,dela,0.8703703703703705
+500,deltatemp,devoteam,0.8
+501,deltatemp,delhaize,0.8087962962962962
+502,demagnolia,dematic,0.8428571428571429
+503,deme,dester,0.8
+504,deme,dematic,0.8083333333333333
+505,deme,deme environmental,0.8444444444444446
+506,democo,dematic,0.8222222222222222
+507,dermat medical supplies,dematic,0.8144927536231884
+508,deschacht,desco,0.8488888888888889
+509,detail,deloitte,0.8022222222222223
+510,detail,dematic,0.826031746031746
+511,detail,dela,0.8
+512,detail,delhaize,0.8022222222222223
+513,dethon,decathlon,0.9111111111111111
+514,dethon,threon,0.8222222222222223
+515,devoteam g cloud,devoteam,0.9
+516,dewaflex,dela,0.8
+517,dewulf,dela,0.8
+518,dexxter,dester,0.8793650793650793
+519,dhl express,tnt express,0.8181818181818182
+520,diabe,isabel,0.8222222222222223
+521,diabe,sodibe,0.8222222222222223
+522,dieteren,dester,0.8375000000000001
+523,digi,digipolitans,0.8666666666666666
+524,digi,digi  citymesh,0.8571428571428571
+525,digisocial,digipolitans,0.8683333333333334
+526,digisolve,digipolitans,0.8333333333333334
+527,digitabytes,digipolitans,0.843939393939394
+528,digitabytes,digi  citymesh,0.8597402597402598
+529,dixio,dnix,0.8049999999999999
+530,dixon,dnix,0.8049999999999999
+531,dme,duomed,0.8500000000000001
+532,dpd nv,dpd,0.8833333333333334
+533,dpg media advertising,dpg media,0.8857142857142858
+534,dpg media,dpg media,1.0
+535,dps  global,hh global,0.8047138047138048
+536,dps  global,g4s global,0.8424242424242424
+537,driesen,resengo,0.8095238095238096
+538,driftawave,firstwave,0.812962962962963
+539,dsc solution,ag solution,0.8190235690235691
+540,dsv road,dsv,0.8541666666666666
+541,duco,duomed,0.8
+542,duco,desco,0.8049999999999999
+543,ducomment,duomed,0.837037037037037
+544,duomed,duomed,1.0
+545,duraconnect,danone,0.8136363636363636
+546,duraconnect,duraconstruct keersmaekers,0.8387412587412587
+547,duraconstructkeersmaekers,duraconstruct keersmaekers,0.9923076923076923
+548,duval union innovative marketing,duval union,0.86875
+549,dynacap,dynapps,0.8857142857142858
+550,easics,asist,0.8222222222222223
+551,ecolab,eco3,0.825
+552,ecotone,eco3,0.8083333333333333
+553,ecotone,ecopower,0.8458333333333333
+554,ecoworld,ecopower,0.8444444444444444
+555,effex,etex,0.8049999999999999
+556,eiffage,ab eiffage,0.8047619047619047
+557,elia,dela,0.8333333333333334
+558,elmos,elmosexperts,0.8833333333333334
+559,elsniemegeerts,elmosexperts,0.8084656084656084
+560,eltex espaa,etex,0.8090909090909092
+561,emmaus,maes,0.8055555555555555
+562,emp,empwr nutrition,0.8133333333333334
+563,en hr solutions,ag solution,0.806060606060606
+564,energy solutions,ag solution,0.8446969696969697
+565,energy solutions,energyvision,0.8716666666666667
+566,enexis,melexis,0.8492063492063492
+567,enexis,energyvision,0.825
+568,enexis,enersee,0.8222222222222222
+569,engage4,engie,0.8533333333333333
+570,engagelybe,engie,0.8133333333333334
+571,engie,engie,1.0
+572,engie electrabel marketing,engie,0.8384615384615385
+573,engie global energy management  sales,engie,0.827027027027027
+574,enginears,engie,0.9111111111111111
+575,engineering inexeon,engie,0.8526315789473684
+576,engineerx,engie,0.9111111111111111
+577,engineerx,dd engineering,0.8201058201058201
+578,enginity,engie,0.86
+579,enovates,novartis,0.8333333333333334
+580,enter,dester,0.8222222222222223
+581,enter,netwerk,0.8380952380952381
+582,enter,etex,0.8049999999999999
+583,enter,enersee,0.8323809523809523
+584,entrio,energyvision,0.8
+585,eqos energie,jeco energies,0.8675213675213675
+586,equalminds,equans,0.92
+587,equals money,equans,0.8666666666666667
+588,equensworldline,equans,0.8055555555555556
+589,eriks,seris,0.8666666666666667
+590,ethnicraft,ethias,0.8444444444444444
+591,euroclear,euroports,0.8222222222222222
+592,euroclear,eurofins ecca,0.8256410256410257
+593,eurokip,euroports,0.853968253968254
+594,european commission,euroports,0.8292397660818713
+595,european commission,eurofins ecca,0.8304747883695254
+596,european spinning,eurofins ecca,0.8314932126696833
+597,eurozip,euroports,0.853968253968254
+598,ev,eviden,0.8222222222222222
+599,ever,eviden,0.8
+600,evidence,eviden,0.95
+601,evolta,devoteam,0.8194444444444445
+602,evonik antwerpen,provincie antwerpen,0.8867690058479533
+603,evribe,eviden,0.8222222222222222
+604,ewings,ing,0.8333333333333334
+605,exact,epact,0.88
+606,eximium,axilium,0.8095238095238096
+607,fast,aft,0.8055555555555555
+608,febelfin,febelco,0.8678571428571429
+609,febelgra,febelco,0.8678571428571429
+610,federale politie,fero,0.8
+611,federgon,fero,0.8666666666666667
+612,feeder one,fero,0.84
+613,feops,fero,0.8266666666666667
+614,ferm,fero,0.8833333333333334
+615,ferm huishoudhulp,fero,0.8215686274509804
+616,fermonrent,fero,0.86
+617,ferrero,fero,0.8083333333333333
+618,fike,ikea,0.8333333333333334
+619,filias,agilitas,0.8194444444444445
+620,finsiders  part of lifeworx,finsiders,0.8666666666666666
+621,finsource,finsiders,0.8333333333333334
+622,first floor careers,first floor,0.9157894736842105
+623,first floor careers,firstwave,0.8292397660818713
+624,flexer,flexso for people,0.8254901960784314
+625,flexso,flexso for people,0.8705882352941177
+626,food safety assurance,foodmaker,0.8222222222222222
+627,foodbag,foodmaker,0.853968253968254
+628,foodcollective,collectief,0.8105820105820106
+629,foodcollective,om collective,0.846986346986347
+630,foodmaker,foodmaker,1.0
+631,formatplus,actoplus,0.8107142857142856
+632,fortis,novartis,0.8194444444444445
+633,fortis,otis,0.8888888888888888
+634,foundever,unilever,0.8055555555555555
+635,fuji oil,fujifilm,0.9
+636,fun adventure,as adventure,0.800854700854701
+637,g4s,g4s global,0.8366666666666667
+638,gens rental,boels rental,0.8560606060606061
+639,geo square,geosquare,0.9766666666666667
+640,geo square,4p square,0.825925925925926
+641,geotherma,geosquare,0.8055555555555556
+642,gimber,gimv,0.825
+643,givi,gimv,0.8666666666666667
+644,god,goed,0.9333333333333333
+645,godit,codit,0.8666666666666667
+646,godit,goed,0.8266666666666667
+647,grandvision,energyvision,0.8190235690235691
+648,grandvision,grand vision,0.9833333333333333
+649,greenpeace,greenyard frozen,0.8275
+650,greenyard,greenyard frozen,0.9125
+651,gudrun,gudrun commercial,0.8705882352941177
+652,h2beton,benton,0.8492063492063492
+653,haelvoet,halito,0.8022222222222223
+654,handson ethicus,hansea,0.8055555555555556
+655,handson hero,hansea,0.825
+656,hannelore pante,hansea,0.8055555555555556
+657,hannes van hees,hansea,0.8211111111111111
+658,hannibal,hansea,0.8055555555555556
+659,hansen industrial transmissions,hansea,0.8387096774193548
+660,harmony,harbour,0.8
+661,harmony,armonea,0.8095238095238096
+662,harmony,haribo,0.8222222222222222
+663,hasco invest,seainvest,0.8101851851851851
+664,hasco invest,hasinto,0.8111111111111111
+665,hays,hansea,0.8
+666,headcount,headcount gent,0.9285714285714286
+667,headit,headcount gent,0.8380952380952381
+668,helder,heylen,0.8222222222222222
+669,herculean,heylen,0.837037037037037
+670,herwin,hyperion,0.8375000000000001
+671,hey professionals,usg professionals,0.810924369747899
+672,hinicio,insilencio,0.8190476190476191
+673,hnm solutions,ag solution,0.8368298368298368
+674,hnm solutions,solutions 30,0.8141025641025642
+675,horizon,hyperion,0.8017857142857143
+676,hr challengers,hr talents,0.8533333333333333
+677,hr talents  executive talents,hr talents,0.8689655172413794
+678,hrplanet,hr talents,0.8485714285714285
+679,hubo,hubo,1.0
+680,hubside,hubo,0.8083333333333333
+681,hudson,hubo,0.8
+682,huma consult,human8,0.85
+683,human being,human8,0.8575757575757577
+684,human consult,human8,0.8435897435897436
+685,human place,human8,0.8575757575757577
+686,humaniti,human8,0.8916666666666667
+687,hypotheekwinkel,hyperion,0.8130555555555556
+688,id logistics,gxo logistics,0.800854700854701
+689,idiverso,indaver,0.8017857142857143
+690,ifac service,actum services,0.8492063492063492
+691,ilean,lineas,0.8111111111111112
+692,ilean,ikea,0.8049999999999999
+693,imcd,imec,0.8666666666666667
+694,imcd,impact,0.8
+695,imec vlaanderen,imec,0.8533333333333333
+696,imecistart,imec,0.88
+697,imecxpand,imec,0.888888888888889
+698,imens,imec,0.8483333333333334
+699,impact  expertise included,impact,0.8461538461538461
+700,impact  expertise included,impact sales  marketing,0.8315364941963408
+701,impact copywriting,impact,0.8666666666666666
+702,impact copywriting,impact sales  marketing,0.8210144927536231
+703,impact expansion,impact,0.875
+704,impact expansion,impact sales  marketing,0.8210144927536233
+705,impact jobs,impact,0.9090909090909091
+706,impact organisatiecoach,impact,0.8521739130434783
+707,impact organisatiecoach,impact sales  marketing,0.8208695652173914
+708,impact speakers,impact,0.88
+709,impact speakers,impact sales  marketing,0.8655486542443065
+710,impactbuilders,impact,0.8857142857142858
+711,impetusacademy,imec,0.8095238095238095
+712,impetusacademy,impact,0.8277777777777777
+713,in brussels,pack brussels,0.8368298368298368
+714,in the pocket,inthepocket,0.958974358974359
+715,in4care,inchcape,0.8238095238095238
+716,in4care,inchcape,0.8238095238095238
+717,incc,inchcape,0.8833333333333334
+718,incc,inchcape,0.8833333333333334
+719,incovointerza,inovet,0.811965811965812
+720,indeff,indaver,0.8222222222222222
+721,ineos,lineas,0.8222222222222223
+722,ineos,ineos manufacturing,0.8526315789473684
+723,ineos,investr,0.8323809523809523
+724,inetum,inovet,0.8222222222222222
+725,infinigate,ing,0.8133333333333332
+726,infrabel,isabel,0.8375000000000001
+727,ing,intigriti,0.8222222222222222
+728,ing,ing,1.0
+729,inge vandael,ing,0.825
+730,ingersoll rand,ing,0.8166666666666667
+731,ingersoll rand,ingersollrand industrial technology,0.8514285714285714
+732,inmotion,moninit,0.8154761904761904
+733,inmotion,innomedio,0.8
+734,inno,inovet,0.8
+735,inno,innomedio,0.888888888888889
+736,innodis,innomedio,0.9047619047619048
+737,innovacient,inovet,0.8101010101010101
+738,innovafeed,inovet,0.8222222222222222
+739,innovafeed,innomedio,0.8533333333333333
+740,insight,intigriti,0.8052910052910053
+741,insight,ing,0.8476190476190477
+742,insight,plainsight,0.9
+743,intco,intelect,0.8366666666666667
+744,intco,inthepocket,0.8260606060606062
+745,integralys,ing,0.8133333333333332
+746,integralys,intelect,0.8250000000000001
+747,integras,intigriti,0.8087962962962962
+748,integras,ing,0.8333333333333333
+749,integras,lineas,0.8194444444444445
+750,integras,investr,0.8063492063492064
+751,intellecteu,intelect,0.9454545454545455
+752,intelligent motion,intigriti,0.8055555555555556
+753,intelligent motion,intelect,0.8527777777777779
+754,intellus,intelect,0.85
+755,intent,intelect,0.8916666666666667
+756,intent,inovet,0.8222222222222222
+757,intent,interne opdrachtgever tbv open vacature,0.8307692307692308
+758,interacthrm,intelect,0.8590909090909091
+759,interdak,indaver,0.8063492063492064
+760,interligo,intigriti,0.8055555555555556
+761,interligo,intelect,0.836111111111111
+762,intersig,intigriti,0.825
+763,intersig,investr,0.8063492063492064
+764,intevu,intelect,0.8333333333333334
+765,intix,intigriti,0.8488888888888889
+766,intogrowth,intigriti,0.8288888888888889
+767,intogrowth,ing,0.8133333333333332
+768,intra engineering,delta engineering,0.834733893557423
+769,intro,intigriti,0.8237037037037037
+770,intro,inthepocket,0.8048484848484848
+771,invest with us capital,investr,0.8259740259740259
+772,ion develop different,ion,0.8
+773,ionway,io,0.8222222222222222
+774,ionway,conway,0.888888888888889
+775,ionway,ion,0.8833333333333334
+776,ipcos,icts,0.8049999999999999
+777,iss facility services belgi en luxemburg,iss facility services,0.905
+778,italents,hr talents,0.8583333333333334
+779,italents,lineas,0.8055555555555555
+780,italents,talentbay,0.8055555555555555
+781,italents,alten,0.8083333333333332
+782,itbuilders,buildr,0.8111111111111112
+783,jan adins,jan de nul,0.8533333333333333
+784,janson law firm,jansen,0.8333333333333334
+785,janssen pharmaceutica,jansen,0.8571428571428571
+786,jbt,jbc,0.8222222222222222
+787,jigso,jims,0.8266666666666667
+788,job talent,jobat,0.8366666666666667
+789,jobat  ads  data,jobat,0.8625
+790,jobat  house of recruitment solutions,jobat,0.827027027027027
+791,jobmatch,jobat,0.9125
+792,jobtoolz,jobat,0.8366666666666667
+793,johnson  johnson,johnson controls international,0.8397619047619048
+794,johnson  johnson innovative medicine,johnson controls international,0.8234343434343435
+795,johnson matthey,johnson controls international,0.8233333333333334
+796,just brilliant,just russel,0.8272727272727273
+797,just pro,just russel,0.8590909090909091
+798,just sbe consulting,just russel,0.8670813397129187
+799,jysk,jysk,1.0
+800,ka schoten,ka construct,0.8172222222222223
+801,kana,katoen natie,0.8222222222222222
+802,kana,kaneka,0.9222222222222222
+803,kaneka,akka,0.8055555555555555
+804,kaneka,kaneka,1.0
+805,kaneka europe  company,kaneka,0.8545454545454545
+806,karenina media,katoen natie,0.8084656084656084
+807,kbc bank  verzekering,kbc,0.8
+808,kbc global services,kbc,0.8035087719298246
+809,kbc securities,kbc,0.8166666666666667
+810,kea consultancy,ka construct,0.82
+811,kenon,benton,0.8222222222222223
+812,klaar de groote,klarrio,0.8266666666666667
+813,klinger,ing,0.8095238095238096
+814,klinger,kingsberry,0.8371428571428572
+815,kmodynamoo,kmo dynamoo,0.9787878787878788
+816,koca,korian,0.8
+817,koers,keyrus,0.8400000000000001
+818,kohera,korian,0.8222222222222222
+819,konnekt,konings,0.8
+820,koodin,korian,0.8222222222222222
+821,korian,korian,1.0
+822,kr projects,aprojects,0.8303872053872053
+823,kubicco,kubip,0.8742857142857143
+824,kubicco,kbc,0.8285714285714287
+825,kuehnenagel,kunnig,0.8101010101010101
+826,kuehnenagel,kuehne  nagel,0.9692307692307692
+827,launch countdown,laco,0.8
+828,lava consult,laco,0.8222222222222222
+829,lbc tank terminals,sea tank terminal,0.8432928727046374
+830,leadz,delhaize,0.8083333333333332
+831,lear,ahlers,0.8055555555555555
+832,lecot,laco,0.8049999999999999
+833,lecot,lyreco,0.8400000000000001
+834,legalmondo,lemon,0.8666666666666667
+835,lemon companies,lemon,0.8666666666666666
+836,lemons make lemonade,lemon,0.85
+837,liam dhollander,lidl,0.8044444444444444
+838,liantis,lineas,0.826031746031746
+839,lidl belgium  luxemburg,lidl,0.8347826086956522
+840,life,lineas,0.8
+841,light it,hilti,0.8083333333333332
+842,lightelec,intelect,0.8055555555555555
+843,ligoro,sligro,0.8222222222222223
+844,limas,lineas,0.8577777777777779
+845,lindemans brewery,lineas,0.8490196078431372
+846,linergy,lineas,0.8476190476190476
+847,linety,lijn,0.8
+848,linety,lineas,0.8666666666666666
+849,link,lijn,0.8666666666666667
+850,link,lineas,0.825
+851,linkedin,lineas,0.8055555555555556
+852,linklaters,lineas,0.8677777777777779
+853,loco,laco,0.8500000000000001
+854,loyens consulting,boston consulting,0.834733893557423
+855,luc,lunch garden,0.8
+856,luminus,cummins,0.8095238095238096
+857,lumire,umicore,0.8492063492063492
+858,lynnco,lyreco,0.8222222222222222
+859,lyreco,lyreco,1.0
+860,lyreco deutschland,lyreco,0.8666666666666666
+861,made for sales,mars,0.8095238095238095
+862,made for sales,maes,0.8095238095238095
+863,made in heaven,made design  innovation,0.825776397515528
+864,maestro investments netherlands,maes,0.8258064516129032
+865,makeout studio,maes,0.8095238095238095
+866,malt,matexi,0.8
+867,manakr8,manuchar,0.8458333333333333
+868,manakr8,manna,0.8533333333333333
+869,manley,maes,0.8
+870,manna foods,manna,0.890909090909091
+871,manta ray,manuchar,0.8087962962962962
+872,manta ray,manna,0.8237037037037037
+873,manus,manuchar,0.86
+874,manus,mars,0.8266666666666667
+875,manus,maes,0.8266666666666667
+876,manus,manna,0.8133333333333334
+877,many,manna,0.8483333333333334
+878,marshall wace,mars,0.8615384615384615
+879,martens  brijs,mars,0.8333333333333333
+880,martens  brijs,maes,0.8095238095238095
+881,masaka,mars,0.8
+882,masaka,maes,0.8
+883,mativ,matexi,0.8755555555555556
+884,mativ,materialise,0.8048484848484848
+885,mattel,matexi,0.8444444444444443
+886,mattel,materialise,0.8338383838383838
+887,mattel,maes,0.8
+888,matthijs,matexi,0.8055555555555556
+889,maxicon,axi,0.8095238095238096
+890,mdabe,medpace,0.8114285714285714
+891,meatless,melexis,0.8238095238095238
+892,meatless,meatmore,0.85
+893,meatpack international,casa international,0.8076846900376312
+894,mecam,meatmore,0.8133333333333332
+895,mediaarchitect,mediahuis,0.8555555555555555
+896,mediaarchitect,medpace,0.8333333333333333
+897,mediabrands,mediahuis,0.8424242424242424
+898,mediacomm,mediahuis,0.8222222222222222
+899,mediacomm,medpace,0.8296296296296296
+900,mediafin,mediahuis,0.8833333333333333
+901,mediahuis technology  product studio,mediahuis,0.85
+902,mediaplanet,medpace,0.8217171717171717
+903,mediaplanet,medpace,0.8217171717171717
+904,mediaplus,mediahuis,0.9111111111111111
+905,mediq,mediahuis,0.8488888888888889
+906,mediwet,medpace,0.8
+907,medrepair,medpace,0.85
+908,melimpus,melexis,0.8458333333333333
+909,melius,mediahuis,0.837037037037037
+910,melius,melexis,0.8944444444444445
+911,memoir,meatmore,0.8555555555555556
+912,meraxis,matexi,0.8042857142857143
+913,meraxis,melexis,0.8476190476190477
+914,merge,merkado agency,0.85
+915,messer,hessers,0.8492063492063492
+916,metaplex,melexis,0.8238095238095238
+917,miele,milcobel,0.8133333333333332
+918,miele,melexis,0.8114285714285714
+919,milernas,lineas,0.8055555555555555
+920,minggo,ing,0.8333333333333334
+921,minta,amista,0.8222222222222223
+922,mobilexpense,melexis,0.8321428571428573
+923,mobilexpense,mobilityplus,0.8333333333333334
+924,mobistar,amista,0.8194444444444445
+925,mobix,mobilityplus,0.8266666666666667
+926,moi,moninit,0.8476190476190477
+927,moi,mobilityplus,0.8
+928,moi,movify,0.8666666666666667
+929,mondea,armonea,0.8492063492063492
+930,mondelz international,moninit,0.8
+931,mondi,moninit,0.8533333333333333
+932,monitor hr consulting,boston consulting,0.8433239962651727
+933,monizze,moninit,0.8285714285714286
+934,montea,ontex,0.8222222222222223
+935,montea,armonea,0.8492063492063492
+936,montisoro,otis,0.8148148148148149
+937,moon recruitment,stroom recruitment,0.8569444444444446
+938,moon recruitment,at recruitment,0.8690476190476191
+939,moonsmanagement,moodmanagement,0.8804273504273504
+940,motion medical,option media,0.9007936507936508
+941,move to cure,movu robotics,0.8033119658119658
+942,mowi,movify,0.8
+943,moxy,movify,0.8
+944,mr mobility,mobilityplus,0.8181818181818182
+945,mrp solution,ag solution,0.8560606060606061
+946,msc cruises,msc,0.8303030303030302
+947,multiengineering,delta engineering,0.8077865761689291
+948,multiengineering,multi engineering,0.9882352941176471
+949,multio services,multi engineering,0.8309803921568628
+950,multisafepay  online payments,multi engineering,0.827211733499766
+951,mva services,actum services,0.8704906204906204
+952,nagelmackers,alkenmaes,0.8101851851851851
+953,namahn,manna,0.8111111111111112
+954,natuurinvest,natuurpunt,0.8933333333333334
+955,nda,indaver,0.8095238095238096
+956,nebulae,teamblue,0.8134920634920636
+957,net at work,netwerk,0.8606060606060606
+958,netherust,netwerk,0.8296296296296296
+959,netherust,neuhaus,0.8052910052910053
+960,netherust,upthrust,0.8055555555555555
+961,netwerk conceptueel bouwen,netwerk,0.8538461538461538
+962,netwerk ondernemen,netwerk,0.8777777777777778
+963,neves,nextensa,0.8133333333333332
+964,new,netwerk,0.8476190476190477
+965,newmark,netwerk,0.8476190476190477
+966,nexans,nextensa,0.8736111111111112
+967,nexos,nextensa,0.8366666666666667
+968,nexova,nextensa,0.8055555555555556
+969,next potentials,nextensa,0.8683333333333334
+970,nextconomy,nextensa,0.8250000000000001
+971,nextstep coaching,nextensa,0.8287815126050421
+972,nexxential,nextensa,0.8674999999999999
+973,nexxential,nexuzhealth,0.8118181818181819
+974,nexxworks,netwerk,0.8052910052910053
+975,nha,neuhaus,0.8285714285714287
+976,nike,niko,0.8833333333333334
+977,nike,ikea,0.8333333333333334
+978,nike,nikon metrology,0.8288888888888889
+979,nippon express,nipro europe  companies,0.8070487483530961
+980,noa,novartis,0.8333333333333333
+981,noa trainings,novartis,0.8054945054945055
+982,noest,inovet,0.8222222222222223
+983,nova,vynova,0.8055555555555555
+984,nova,novartis,0.9
+985,nova,novasol chemicals,0.8470588235294118
+986,novo nordisk,novartis,0.825
+987,ntt,ntx,0.8222222222222222
+988,nva,novartis,0.8125
+989,nvt,novartis,0.8125
+990,oeco,oleon,0.8049999999999999
+991,oeco,eco3,0.8333333333333334
+992,okademy,okay,0.8083333333333333
+993,ol,oleon,0.84
+994,olv van lourdes ziekenhuis waregem,olv ziekenhuis,0.8252100840336135
+995,olv ziekenhuis aalstasseninove,olv ziekenhuis,0.8933333333333334
+996,olympia,omp,0.8285714285714287
+997,omnicom media,option media,0.8207692307692309
+998,one digital,on it,0.8545454545454546
+999,oneit,on it,0.8933333333333333
+1000,onepoint,on it,0.8133333333333332
+1001,opgroeien,ohgreen,0.8571428571428572
+1002,optiek monthur,option media,0.834126984126984
+1003,optimaal groeien,option media,0.8316666666666667
+1004,optimaal groeien,optimile,0.8625
+1005,optimeyes,option media,0.8333333333333334
+1006,optimeyes,optimile,0.8833333333333333
+1007,optimizers,option media,0.8280952380952381
+1008,optimizers,optimile,0.915
+1009,orange,orange cyberdefense,0.8631578947368421
+1010,orange business,orange cyberdefense,0.8442743221690591
+1011,orange cyberdefense,orange cyberdefense,1.0
+1012,orangewebdesign,orange cyberdefense,0.852982456140351
+1013,orfit,orfit industries,0.8625
+1014,organi,korian,0.8222222222222223
+1015,otolith consulting,boston consulting,0.8432928727046374
+1016,pacorini,parkwind,0.8
+1017,padi,aldi,0.8333333333333334
+1018,panenka,kaneka,0.8492063492063492
+1019,panenka,partena,0.8476190476190477
+1020,papperas,peripass,0.8
+1021,paradigmbrussels,pack brussels,0.8117948717948718
+1022,partena professional,partena,0.87
+1023,partspoint,partena,0.8428571428571429
+1024,passage,pss,0.8285714285714287
+1025,paulig,pauwels,0.8222222222222222
+1026,pauwels consulting,pauwelsconsulting,0.9888888888888889
+1027,pauwels consulting,pauwels,0.8777777777777778
+1028,pauze,pu,0.82
+1029,pauze,pauwels,0.8533333333333333
+1030,paytalent,catalent,0.8842592592592592
+1031,paytalent,partena,0.8285714285714285
+1032,phd media,dpg media,0.8842592592592592
+1033,pia,peripass,0.8125
+1034,pia,piagroup,0.8541666666666666
+1035,pietercil,pietercil delbys,0.9125
+1036,pionier,ion,0.8095238095238096
+1037,piva antwerpen,psa antwerp,0.887012987012987
+1038,planet,plainsight,0.8444444444444444
+1039,planet,partena,0.8042857142857143
+1040,planet,planettalent,0.9
+1041,planet talent,planettalent,0.9846153846153847
+1042,play media,dpg media,0.825925925925926
+1043,pluxee,pluxee,1.0
+1044,pm,kpmg,0.8333333333333334
+1045,politie antwerpen,provincie antwerpen,0.8415479876160992
+1046,pom,proximus,0.8125
+1047,pom,pomuni,0.8833333333333334
+1048,pom,potemkino,0.8222222222222222
+1049,pon automotive,pomuni,0.8031746031746032
+1050,poolplus,loop earplugs,0.8301282051282052
+1051,postnl,bpost,0.8222222222222223
+1052,prado,puratos,0.8114285714285714
+1053,primoris,proximus,0.8222222222222222
+1054,probilife,protime,0.8296296296296296
+1055,procos,proximus,0.8055555555555556
+1056,procos,pro duo,0.8222222222222222
+1057,prodecc,protime,0.8
+1058,prodecc,pro duo,0.8
+1059,profile,protime,0.8666666666666668
+1060,profo,pro duo,0.8533333333333333
+1061,project pit,aprojects,0.8047138047138048
+1062,projectivators,aprojects,0.8201058201058201
+1063,projectseu,aprojects,0.8962962962962964
+1064,projinit,provincie antwerpen,0.8234649122807017
+1065,promedia,protime,0.8694444444444446
+1066,promedia,dpg media,0.8055555555555555
+1067,protect,protime,0.8857142857142858
+1068,protect,aprojects,0.8412698412698413
+1069,proudlyio,pro duo,0.85
+1070,prounity,pomuni,0.8375000000000001
+1071,provincie oostvlaanderen,provincie antwerpen,0.9088493292053663
+1072,proximus nxt,proximus,0.9333333333333333
+1073,psa,psa antwerp,0.8303030303030302
+1074,psa,pss,0.8222222222222222
+1075,psa,psa antwerp,0.8303030303030302
+1076,psa,pss,0.8222222222222222
+1077,public,pu,0.8222222222222222
+1078,publiq,pu,0.8222222222222222
+1079,punt,pu,0.8666666666666667
+1080,puur hr,pu,0.8095238095238095
+1081,pwc,pwc,1.0
+1082,q team,qteam,0.9500000000000001
+1083,radio holland,radikal,0.8304029304029305
+1084,radius,radikal,0.8476190476190476
+1085,ravago,ravago coordination center,0.8461538461538461
+1086,realto energy,realdolmen,0.8476923076923077
+1087,recruit2  boost recruitment,recruitment architects,0.8334125569419687
+1088,recruitment sisters,recrewtment,0.8270813397129186
+1089,recruitment sisters,recruitment architects,0.9217281170841541
+1090,recruitment solutions,recrewtment,0.8271284271284272
+1091,recruitment solutions,recruitment architects,0.8658874458874459
+1092,recruitrlab,recruitment architects,0.8232323232323232
+1093,redisco,desco,0.8380952380952381
+1094,resilient security,resilient business,0.8825396825396825
+1095,resillion,resilient business,0.8333333333333334
+1096,resinex,sereni,0.8412698412698413
+1097,resinex,resengo,0.8200000000000001
+1098,restory,brustor,0.8095238095238096
+1099,restory,resengo,0.8
+1100,retail partners colruyt,retail performance,0.8571014492753622
+1101,retaildetail,retail performance,0.8222222222222222
+1102,retired,recticel,0.8238095238095238
+1103,reynaers,reynaers aluminium,0.888888888888889
+1104,rialto recruitment,stroom recruitment,0.8666666666666667
+1105,rialto recruitment,at recruitment,0.8306878306878307
+1106,robin,robovision,0.8133333333333334
+1107,rode kruisvlaanderen,rodekruis,0.89
+1108,rogiers,rodekruis,0.8052910052910053
+1109,roov,robovision,0.84
+1110,rosendiem,roosendaelhof,0.8176638176638176
+1111,royce partners,buysse  partners,0.8244047619047619
+1112,saamo,savaco,0.8577777777777779
+1113,sabca,strabag,0.8114285714285714
+1114,salar,stellar,0.8114285714285714
+1115,saman,samsonite,0.8237037037037037
+1116,sander,sanorice,0.8269444444444445
+1117,sandrijncom,sanorice,0.8356060606060606
+1118,santens,antenno,0.8095238095238096
+1119,sap,smappee,0.8285714285714287
+1120,sapim,stadim,0.8400000000000001
+1121,sbr construct,ka construct,0.8675213675213675
+1122,scania,scania parts logistics unit 2250,0.8375
+1123,scania parts logistics,scania parts logistics unit 2250,0.9375
+1124,scopernia,sereni,0.8166666666666667
+1125,scopernia,soprema,0.8071428571428572
+1126,sd worx,sd worx,1.0
+1127,sd worx luxembourg,sd worx,0.8777777777777778
+1128,sd worx professionals,sd worx,0.8666666666666666
+1129,sd worx staffing solutions,sd worx,0.8538461538461538
+1130,seafrigo,seris,0.8133333333333332
+1131,searching health,seainvest,0.8168981481481482
+1132,seatank terminal,sea tank terminal,0.9571078431372549
+1133,seco,securex,0.8083333333333333
+1134,seco,eco3,0.8333333333333334
+1135,security cams,securitas,0.9384615384615385
+1136,seingim,ing,0.8095238095238096
+1137,senales,seainvest,0.8285714285714285
+1138,seris,sereni,0.8755555555555556
+1139,seris,seris,1.0
+1140,servantes,seainvest,0.8407407407407408
+1141,serviceplan,seris,0.8048484848484848
+1142,services de ressources humaines,seris,0.8043010752688171
+1143,servitop,sereni,0.8055555555555556
+1144,servitop,seris,0.8366666666666667
+1145,sgs,sgs,1.0
+1146,sgs ewacs,sgs,0.8444444444444443
+1147,shell,stellar,0.8114285714285714
+1148,shipex,sipef,0.8400000000000001
+1149,signicat,signify,0.8678571428571429
+1150,sipwell part of primo water,sipef,0.8098765432098766
+1151,sl,sligro,0.8222222222222222
+1152,sligro food,sligro,0.9090909090909091
+1153,slimbox,sligro,0.8222222222222222
+1154,slingshot,sligro,0.8574074074074074
+1155,sma solar technology,classo technology,0.8928921568627451
+1156,smals,smulders,0.8133333333333332
+1157,smart consulting,smart presentations,0.8351076555023924
+1158,smart symbols,smart presentations,0.8331983805668016
+1159,smartfin,smt,0.8333333333333333
+1160,smartfin,smartwithfood,0.8541208791208791
+1161,smartmatic,smt,0.8133333333333332
+1162,smartschool,smt,0.8060606060606059
+1163,smartschool,smartwithfood,0.8685314685314686
+1164,smartwaterloop,smartwithfood,0.8670329670329671
+1165,smartwaterloop,smart presentations,0.8365686944634313
+1166,smet,mext,0.8333333333333334
+1167,smet,smt,0.9333333333333333
+1168,smt,smt,1.0
+1169,smulders projects,smulders,0.8941176470588236
+1170,sodexo,sodibe,0.8444444444444443
+1171,solarnation,solvint,0.8217171717171717
+1172,solid talent,solvint,0.8111111111111111
+1173,solina,solvint,0.8944444444444445
+1174,solina,solutions 30,0.825
+1175,solina,solix search,0.85
+1176,solita,solvint,0.8944444444444445
+1177,solita,solix search,0.85
+1178,solitec,solvint,0.8666666666666668
+1179,solitec,solix search,0.8714285714285714
+1180,solix academy,solix search,0.8662393162393163
+1181,solusio,ag solution,0.8008658008658008
+1182,solusio,solvint,0.8
+1183,solusio,solutions 30,0.8880952380952382
+1184,solutions magazine,solutions 30,0.8777777777777778
+1185,solvay,solvint,0.8476190476190476
+1186,solvint supply management,solvint,0.8560000000000001
+1187,solvus,solvint,0.8476190476190476
+1188,solvus,solutions 30,0.825
+1189,sophie makker,soprema,0.8410256410256409
+1190,sopra steria,soprema,0.8380952380952381
+1191,sopra steria,sopra steria,1.0
+1192,sopra steria next,sopra steria,0.9411764705882353
+1193,soul heart,solix search,0.8088888888888889
+1194,spadel,spacewell,0.8574074074074074
+1195,spie,sipef,0.865
+1196,spie,sipef,0.865
+1197,sporta,sportoase,0.9333333333333333
+1198,sporta,soprema,0.8042857142857143
+1199,sportplus media,sportoase,0.8488888888888889
+1200,sports agency,sportoase,0.8758547008547009
+1201,sports agency,springbok agency,0.8029137529137529
+1202,sports agency,tpo agency,0.8897435897435897
+1203,sportscom,sportoase,0.8825396825396825
+1204,sportstages,sportoase,0.8982323232323232
+1205,sportz88,sportoase,0.836111111111111
+1206,spot on,sportoase,0.8296296296296296
+1207,spring professional,usg professionals,0.80171998624011
+1208,spring professional,usg professionals,0.80171998624011
+1209,square city,square,0.9090909090909091
+1210,square management,square,0.8705882352941177
+1211,squaretrade,square,0.9090909090909091
+1212,st engineering idirect,dd engineering,0.8008658008658008
+1213,staci,stadim,0.8755555555555556
+1214,stad antwerpen,psa antwerp,0.8077922077922078
+1215,stad beringen,stadim,0.8435897435897436
+1216,stad deinze,stadim,0.8575757575757577
+1217,stad genk,stadim,0.8222222222222222
+1218,stad gent,stadim,0.8222222222222222
+1219,stad mechelen,stadim,0.8435897435897436
+1220,stad oudenaarde,standaard boekhandel,0.8477777777777777
+1221,stad sintniklaas,stadim,0.8291666666666667
+1222,stadim  valuation  strategy in real estate,stadim,0.8285714285714286
+1223,staff it,stadim,0.8055555555555556
+1224,standaard uitgeverij,standaard boekhandel,0.8400000000000001
+1225,standit,stadim,0.8944444444444445
+1226,starboybe,stibbe,0.837037037037037
+1227,stardekk,stadim,0.8055555555555556
+1228,starredcom,stadim,0.8444444444444444
+1229,statbel,isabel,0.8492063492063492
+1230,steady agency,merkado agency,0.8278388278388279
+1231,stegmann,stefanini emea,0.8083333333333333
+1232,stella p,stellantis etransmissions,0.8310000000000001
+1233,stella p,stellar,0.9214285714285715
+1234,stephanie muller,stefanini emea,0.8225
+1235,steurs,seris,0.8400000000000001
+1236,steurs,stellar,0.8222222222222222
+1237,steurs,securitas,0.8166666666666667
+1238,stibmivb,stibbe,0.8916666666666667
+1239,stop darmkanker,storm,0.8444444444444443
+1240,stow,storm,0.8483333333333334
+1241,straff,stream software,0.8055555555555556
+1242,straff,strabag,0.8476190476190476
+1243,strateeg hr,strabag,0.8337662337662337
+1244,stressmanagement,strabag,0.8208333333333333
+1245,strong mind,storm,0.8012121212121213
+1246,stroom  supply chain recruitment specialist,stroom recruitment,0.8281653746770026
+1247,stroom maatwerk,stream software,0.8483333333333334
+1248,stroom maatwerk,stroom recruitment,0.8325252525252527
+1249,structural concrete,stroom recruitment,0.8034113060428849
+1250,studio emma,stadim,0.8101010101010101
+1251,studio salie,soudal,0.8
+1252,studio smaak,stadim,0.8
+1253,stylinart,stellar,0.8052910052910053
+1254,sugar me,square,0.8375000000000001
+1255,sugarspice,square,0.8
+1256,sugarspice,sanorice,0.8049999999999999
+1257,syfco,sofico,0.8400000000000001
+1258,synergie,engie,0.8083333333333332
+1259,synergie,engie,0.8083333333333332
+1260,talenco,talentbay,0.853968253968254
+1261,talenco,alten,0.8380952380952381
+1262,talent hike,talentbay,0.8424242424242424
+1263,talent lab,talentbay,0.9127777777777778
+1264,talent plus,talentbay,0.8424242424242424
+1265,talent specialisten,talentbay,0.8292397660818713
+1266,talent to match,talentbay,0.8488888888888889
+1267,talentbrussels,talentbay,0.8555555555555555
+1268,talentchain,talentbay,0.882828282828283
+1269,talentit,talentbay,0.8833333333333333
+1270,talentit,alten,0.8083333333333332
+1271,talentscout,talentbay,0.8424242424242424
+1272,talentus,hr talents,0.8583333333333334
+1273,talentus,talentbay,0.8833333333333333
+1274,talentus,alten,0.8083333333333332
+1275,tata consultancy services,tata consultancy services,1.0
+1276,tbwa,tbwa,1.0
+1277,tch tessenderlo,tessenderlo,0.9199999999999999
+1278,tcm,tcr,0.8222222222222222
+1279,team lewis,teamblue,0.87
+1280,team4talent,teamblue,0.8590909090909091
+1281,team4talent,planettalent,0.8190235690235691
+1282,teamleader,teamblue,0.87
+1283,teampeak,teamblue,0.85
+1284,techfield,techwolf,0.85
+1285,technogym,techwolf,0.836111111111111
+1286,tefcold,techwolf,0.8238095238095238
+1287,tejo,terumo,0.8
+1288,tekst  beeld,tes,0.8
+1289,telenet business,telenet,0.8875
+1290,telenet business,telenet retail,0.8478571428571429
+1291,televic,telenet,0.8285714285714286
+1292,tellent,telenet,0.9333333333333333
+1293,tellent,telenet retail,0.8333333333333333
+1294,tempoteam,devoteam,0.8055555555555555
+1295,tenos hr consulting,boston consulting,0.8239422084623323
+1296,terumo pharmaceutical solutions division,terumo,0.8300000000000001
+1297,thalento,hr talents,0.8107142857142856
+1298,thalento,talentbay,0.825
+1299,thalento,alten,0.8083333333333332
+1300,thalento,halito,0.8194444444444445
+1301,thalento,threon,0.8022222222222223
+1302,adecco,acc,0.8500000000000001
+1303,adecco,desco,0.8222222222222223
+1304,brand guys,brainbridge,0.8006060606060607
+1305,brand guys,brand quadergy,0.8863492063492064
+1306,brick,br,0.84
+1307,campus,ca,0.8222222222222222
+1308,chalo,ca,0.82
+1309,chalo,halito,0.8222222222222223
+1310,cocacola,cocacola european partners,0.8615384615384615
+1311,cocacola,cocacola,1.0
+1312,digitals,digipolitans,0.9083333333333333
+1313,digitals,digi  citymesh,0.8357142857142857
+1314,european fertility society,euroports,0.8393162393162394
+1315,european fertility society,eurofins ecca,0.826923076923077
+1316,international center for future generations  icfg,interne opdrachtgever tbv open vacature,0.8209888421869989
+1317,jane antwerp,jansen,0.825
+1318,janssen pharmaceutical companies of johnson  johnson,jansen,0.8230769230769232
+1319,lego,lemon,0.8266666666666667
+1320,master labs,materialise,0.8212121212121212
+1321,moris,mars,0.8049999999999999
+1322,nest,investr,0.8571428571428571
+1323,next label,nextensa,0.8366666666666667
+1324,other agency,ohgreen,0.8321428571428573
+1325,product architects,protime,0.8111111111111111
+1326,recruiters academy,recruitment architects,0.8542568542568543
+1327,talent touch,talentbay,0.8333333333333334
+1328,thinking advisory,thi factory,0.8128342245989304
+1329,thomas,tormans,0.8642857142857143
+1330,thomas cook,tomra food,0.8009090909090909
+1331,thomas cook,tomco,0.8363636363636364
+1332,threon  strategy delivered,threon,0.8461538461538461
+1333,thribeworld,threon,0.8338383838383838
+1334,tis,otis,0.9166666666666666
+1335,tma,tmc,0.8222222222222222
+1336,tma,tormans,0.8285714285714287
+1337,tmf,tmc,0.8222222222222222
+1338,tobania,banijay,0.8095238095238096
+1339,toca,tomco,0.8266666666666667
+1340,toca,toqua,0.8266666666666667
+1341,toezns,toreon,0.8222222222222222
+1342,tomorrowbe,tomorrowland,0.8933333333333334
+1343,tomorrowbe,tomco,0.8133333333333334
+1344,top brands,pvh brands,0.8666666666666667
+1345,top brands,tormans,0.8552380952380954
+1346,top brands,top printing,0.8200000000000001
+1347,top employers institute,top printing,0.8536231884057971
+1348,tops foods,tomra food,0.84
+1349,tornadotrans,tormans,0.8111111111111111
+1350,traicie,trifinance,0.8819047619047619
+1351,travalco,savaco,0.8194444444444445
+1352,traxio,axi,0.8333333333333334
+1353,trendinstituut,trendminer,0.8400000000000001
+1354,trendwolves,trendminer,0.8290909090909091
+1355,trensition,trendminer,0.8400000000000001
+1356,trifinance,trifinance,1.0
+1357,trixolutions  leadership softskills,trixolutions,0.8685714285714285
+1358,trouw nutrition,empwr nutrition,0.8111111111111112
+1359,tta international,casa international,0.8607843137254902
+1360,tuc rail,tcr,0.8125
+1361,tui,touring,0.8285714285714287
+1362,turbel,turbulent,0.9
+1363,turolex,turbulent,0.8296296296296296
+1364,two impress,twipe,0.8545454545454546
+1365,umain,human8,0.8222222222222223
+1366,uman,human8,0.8888888888888888
+1367,uman,human8,0.8888888888888888
+1368,umani,human8,0.8222222222222223
+1369,unicorn,umicore,0.8285714285714287
+1370,unicorn,unilin,0.8222222222222222
+1371,unifiedpost,unitedpetfood,0.8174533799533799
+1372,unikoo,niko,0.8888888888888888
+1373,unilever,unilin,0.8333333333333334
+1374,unilever,unilever,1.0
+1375,unilin panels,unilin,0.8923076923076924
+1376,unique,unilever,0.8055555555555556
+1377,unique,unilever,0.8055555555555556
+1378,unit 14,unitt,0.8742857142857143
+1379,unit4,unitt,0.92
+1380,unit4,unitedpetfood,0.8215384615384616
+1381,unitd,unitt,0.92
+1382,unitd,unitedpetfood,0.8769230769230769
+1383,united hr,unitt,0.8488888888888889
+1384,united hr,unitedpetfood,0.8256410256410257
+1385,united hr,unilever,0.8087962962962962
+1386,universit saintlouis  bruxelles,unitt,0.8043010752688171
+1387,universiteit antwerpen,unitt,0.8196969696969698
+1388,universiteit gent,unitt,0.8352941176470587
+1389,unizo,unitt,0.8133333333333334
+1390,unizo limburg,unilin,0.8175213675213675
+1391,unmute you,unmuteyou,0.98
+1392,uptime,protime,0.8492063492063492
+1393,uptime,optimile,0.8194444444444445
+1394,uptime,up time,0.9619047619047619
+1395,uptime hr,up time,0.873015873015873
+1396,usg people,usg professionals,0.8291176470588235
+1397,usg professionals,usg professionals,1.0
+1398,usg professionals in ict,usg professionals,0.9416666666666667
+1399,uz brussel,pack brussels,0.8051282051282053
+1400,valpeo,alpro,0.8222222222222223
+1401,van bommel professionalisering,van moer,0.8283333333333334
+1402,van de velde packaging,van de velde,0.9090909090909091
+1403,van den berg training  advies,vanbreda risk  benefits,0.8052763092138141
+1404,van der valk hotel gent,van de velde,0.8608036890645586
+1405,van der valk hotel gent,van laere,0.8338164251207729
+1406,van der wiel marketing  advies,vanbreda risk  benefits,0.8001805237732011
+1407,van der wiel marketing  advies,van de velde,0.8333333333333334
+1408,van hamme architecten,van havermaet,0.8489010989010989
+1409,van hamme architecten,van laere,0.853968253968254
+1410,van hamme architecten,van moer,0.8416666666666667
+1411,van hooft overkappingen,van havermaet,0.8467011249619946
+1412,van hooft overkappingen,van moer,0.8358695652173913
+1413,van hoye f en m,vanhoecke,0.8237037037037037
+1414,van hoye f en m,van moer,0.8300000000000001
+1415,van leeuwen buizen,van laere,0.8333333333333334
+1416,van marcke,van havermaet,0.8580769230769232
+1417,van marcke,van laere,0.8669841269841271
+1418,van marcke,van moer,0.8864285714285713
+1419,van minderhout coaching,vanhout,0.8376811594202899
+1420,van minderhout coaching,van moer,0.8445652173913043
+1421,van moer logistics,van moer,0.888888888888889
+1422,van mook schoentechniek,vanhoecke,0.8061191626409018
+1423,van mook schoentechniek,van moer,0.8358695652173913
+1424,van mossel automotive,vanhout,0.8
+1425,van mossel automotive,van moer,0.8416666666666667
+1426,van mossel,van de velde,0.8200000000000001
+1427,van mossel,van moer,0.915
+1428,van mossel mercedesbenz,van moer,0.8695652173913043
+1429,van mossel volkswagen,van moer,0.8416666666666667
+1430,van oord,vandemoortele,0.8298076923076922
+1431,van oord,van laere,0.836111111111111
+1432,van oord,van moer,0.9
+1433,van put home,vanhoecke,0.8055555555555556
+1434,van put home,vanhout,0.8361111111111111
+1435,van put home,van moer,0.85
+1436,van roey,vanhoecke,0.8087962962962962
+1437,van roey,van laere,0.85
+1438,van roey,van moer,0.9214285714285715
+1439,vanbreda services,vanbreda risk  benefits,0.8802387041773232
+1440,vandebos,vandemoortele,0.8423076923076923
+1441,vandebos,vab,0.8333333333333333
+1442,vandebos,vandersanden,0.85
+1443,vandelanotte,deloitte,0.8194444444444445
+1444,vandelanotte,vandemoortele,0.8564102564102564
+1445,vandelanotte,vandersanden,0.8666666666666666
+1446,vandelanotte,vanlanschot,0.8585858585858586
+1447,vandelanotte,van laere,0.8175925925925926
+1448,vanden borre kitchen,vanbreda risk  benefits,0.8094021739130435
+1449,vanden borre kitchen,vandemoortele,0.8338461538461539
+1450,vanden broele,vandemoortele,0.8876923076923078
+1451,vanden broele,van de velde,0.8439458689458689
+1452,vanden broele,vandersanden,0.8314102564102565
+1453,vanden broele,van laere,0.8071225071225071
+1454,vandycke  partners,vanbreda risk  benefits,0.8021739130434783
+1455,vandycke  partners,vandersanden,0.8277777777777777
+1456,vandycke  partners,van laere,0.8152777777777778
+1457,vanguard leadership,van laere,0.8253411306042885
+1458,vanroeybe,vandemoortele,0.8071225071225071
+1459,vanroeybe,vanhoecke,0.8444444444444443
+1460,vanroeybe,van moer,0.8087962962962962
+1461,vasco,savaco,0.8777777777777779
+1462,vdab,vab,0.9249999999999999
+1463,vdk bank,ckv bank,0.8690476190476191
+1464,velvet,vlinvesta,0.8166666666666667
+1465,verhaert  onsite consulting,verhaert,0.8592592592592593
+1466,verhaert onsite consulting,verhaert,0.8615384615384615
+1467,verhelst,verhaert,0.9
+1468,verisure,verina bourdon,0.8357142857142857
+1469,verisure,verina bourdon,0.8357142857142857
+1470,veritas,novartis,0.8134920634920636
+1471,veritas,securitas,0.8412698412698413
+1472,vermeiren advocaten,verina bourdon,0.8093301435406699
+1473,vgd,vgp,0.8222222222222222
+1474,vgd,vgd belgie,0.8366666666666667
+1475,via ponte,vinotte,0.8052910052910053
+1476,vidende,eviden,0.8492063492063492
+1477,vigotec,vinotte,0.8476190476190477
+1478,vind,vinotte,0.8083333333333333
+1479,vintage,vinotte,0.8666666666666668
+1480,vintor trade agency,vinotte,0.8192982456140351
+1481,visitatie,vinotte,0.8052910052910053
+1482,visitatie,visma,0.8237037037037037
+1483,visma  yuki,visma,0.890909090909091
+1484,vit,vinotte,0.8476190476190477
+1485,vito,vinotte,0.819047619047619
+1486,viu more,umicore,0.8134920634920636
+1487,viu more,van moer,0.8
+1488,vivaldis,viabuild,0.8222222222222222
+1489,vivaldis,vivaldis interim,0.9
+1490,vivalis,vivaldis interim,0.8875
+1491,vlaams parlement,vlaamse landmaatschappij,0.8400641025641026
+1492,vlaamse post,vlaamse landmaatschappij,0.8300000000000001
+1493,vmma,visma,0.8049999999999999
+1494,voka  kamer van koophandel kempen,voka,0.8242424242424242
+1495,voka  kamer van koophandel limburg,voka,0.823529411764706
+1496,voka  kvk mechelenkempen,voka,0.8333333333333334
+1497,voka oostvlaanderen,voka,0.8421052631578947
+1498,vokan,voka,0.96
+1499,vokavlaams netwerk van ondernemingen,voka,0.8222222222222222
+1500,volvo cars,volvo car gent,0.9085714285714286
+1501,volvo trucks,volvo car gent,0.8226190476190477
+1502,vopak,voka,0.8266666666666667
+1503,vpk,vpkgroup,0.8541666666666666
+1504,vpk,vpkgroup,0.8541666666666666
+1505,waldon,alcon,0.8222222222222223
+1506,wamp,am,0.8333333333333334
+1507,wenite,engie,0.8222222222222223
+1508,whitewood,whitewood capital,0.9058823529411765
+1509,willem trip therapie,willemen infra,0.848961038961039
+1510,willemen,willemen infra,0.9142857142857143
+1511,willemen construct,willemen infra,0.8793650793650793
+1512,wolcen studio,wolf security,0.8223076923076923
+1513,wolf oil,wolf security,0.8423076923076923
+1514,ww services,actum services,0.8203463203463204
+1515,xelor,xplore,0.8400000000000001
+1516,xerius,seris,0.8222222222222223
+1517,xtra,xtra works,0.88
+1518,y squared,square,0.8888888888888888
+1519,y squared,4p square,0.8518518518518517
+1520,yindrabe,indaver,0.8134920634920636
+1521,yoin,yontec,0.8
+1522,yourimpact,impact,0.8666666666666667

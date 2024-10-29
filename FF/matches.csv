@@ -1,0 +1,443 @@
+List1_Name,List2_Name,combined similarity,jw_similarity,token_similarity
+TPO Agency,TPO Agency,1.0,1.0,1.0
+Bluecrux,Bluu,0.7766666666666667,0.8833333333333334,0.67
+Bluecrux,Bluecrux,1.0,1.0,1.0
+Biztory,Biztory,1.0,1.0,1.0
+IMPACT,ePact,0.7761111111111112,0.8222222222222223,0.73
+IMPACT,IMPACT,1.0,1.0,1.0
+IMPACT,We are Impact Collective,0.8194444444444444,0.6388888888888888,1.0
+IMPACT,IMEC,0.7,0.8,0.6
+IMPACT,Impact Sales & Marketing Belux,0.925,0.85,1.0
+Ici Paris XL,Ici Paris XL,1.0,1.0,1.0
+Sea Tank Terminal,Sea Tank Terminal,1.0,1.0,1.0
+Dego Verzekeringen,P&V Panels ( en niet P&V Verzekeringen ),0.6737457912457913,0.5074915824915825,0.84
+Dego Verzekeringen,KBC Verzekeringen,0.7971226268285092,0.7242452536570184,0.87
+Dego Verzekeringen,P & V Verzekeringen,0.7826747424115845,0.695349484823169,0.87
+Axilium,Axilium,1.0,1.0,1.0
+Axilium,AXI,0.7333333333333334,0.8666666666666668,0.6
+Credon,Kreon,0.7761111111111112,0.8222222222222223,0.73
+Credon,Credon,1.0,1.0,1.0
+Credon,Creadomus,0.7637037037037038,0.8574074074074074,0.67
+Credon,Credix,0.7683333333333333,0.8666666666666666,0.67
+Jansen Group - Maes Industrie,Groep Maes,0.8206521739130435,0.6413043478260869,1.0
+Jansen Group - Maes Industrie,Maes Industries,0.7792512077294687,0.7285024154589372,0.83
+Brussels Airport Company,Brussels Airport Company,1.0,1.0,1.0
+Monin-it,Monin-it,1.0,1.0,1.0
+Novartis,Novartis,1.0,1.0,1.0
+Novartis,Biocartis,0.7577777777777777,0.8055555555555555,0.71
+SD Worx,SD Worx,1.0,1.0,1.0
+Grand Vision Belgium,Grand Vision Belgium,1.0,1.0,1.0
+Grand Vision Belgium,Grand Opticiens Belgium,0.7418181818181818,0.8936363636363637,0.59
+iBanFirst,iBanFirst,1.0,1.0,1.0
+Smulders,Smulders,1.0,1.0,1.0
+Smulders,Smals,0.7166666666666666,0.8133333333333332,0.62
+Azelis,Azelis,1.0,1.0,1.0
+Unit-T,Unit-T,1.0,1.0,1.0
+AZ Herentals,Haerens Group,0.7217460317460318,0.8134920634920636,0.63
+AZ Herentals,AZ Herentals,1.0,1.0,1.0
+Vanlanschot,Van Lanschot,0.8537121212121213,0.8674242424242425,0.84
+Manuchar,Manuchar,1.0,1.0,1.0
+Digipolitans,Digipolitans,1.0,1.0,1.0
+Digipolitans,Digipolis,0.905,0.95,0.86
+Digipolitans,digi,0.6833333333333333,0.8666666666666666,0.5
+Advipro,Advipro,1.0,1.0,1.0
+Recruitment Architects,Remant Transport Architects,0.7551146384479718,0.5102292768959436,1.0
+Recruitment Architects,Recruitment Architects,1.0,1.0,1.0
+Recruitment Architects,Arcadis,0.7033333333333334,0.8166666666666667,0.59
+Recruitment Architects,Arcadis Belgium,0.7033333333333334,0.8166666666666667,0.59
+Aertssen,Haerens Group,0.7417460317460318,0.8134920634920636,0.67
+Aertssen,Aertssen,1.0,1.0,1.0
+Option Media,Optimile,0.7016666666666667,0.8333333333333334,0.57
+Option Media,Gumption Group,0.7647222222222223,0.8194444444444445,0.71
+Option Media,Option Media,1.0,1.0,1.0
+HH Global,G4S Global,0.7891534391534392,0.7783068783068784,0.8
+HH Global,HH Global,1.0,1.0,1.0
+HH Global,PPD Global Central Labs,0.7470209339774557,0.6940418679549114,0.8
+HH Global,DHL Global Forwarding,0.7158068783068783,0.6316137566137566,0.8
+Xylos,Xylos NV,1.0,1.0,1.0
+Antenno,Antenno,1.0,1.0,1.0
+Antenno,Antea Belgium,0.7721428571428572,0.8742857142857143,0.67
+Antenno,Antea Group,0.7721428571428572,0.8742857142857143,0.67
+Hansea,Hansea,1.0,1.0,1.0
+Hansea,Antea Belgium,0.7761111111111112,0.8222222222222223,0.73
+Hansea,Antea Group,0.7761111111111112,0.8222222222222223,0.73
+Hansea,Hansen Industrial Transmissions,0.5793548387096774,0.8387096774193548,0.32
+Multi Engineering,Multi Engineering,1.0,1.0,1.0
+Multi Engineering,Multifunctioneel centrum De Hagewinde,0.5447058823529412,0.8294117647058824,0.26
+iCredit bv,iCredit,0.97,0.9400000000000001,1.0
+Wunderman Thompson / VML,VML,0.7291666666666666,0.4583333333333333,1.0
+Cargill NV,Carglass,0.7689285714285714,0.8678571428571429,0.67
+Cargill NV,Care,0.6791666666666667,0.8083333333333333,0.55
+What's Cooking Group NV,Whatscooking,0.7557142857142858,0.9714285714285714,0.54
+Digi / Citymesh,digi,0.9266666666666666,0.8533333333333333,1.0
+Unmute-you,Unmute- You,0.990909090909091,0.9818181818181818,1.0
+Van Laere,Van Laere,1.0,1.0,1.0
+Van Laere,Delaware,0.7141666666666666,0.8083333333333332,0.62
+I.C.T.S Europe,I.C.T.S. Europe,0.9875,0.975,1.0
+Plainsight,Plainsight,1.0,1.0,1.0
+CESI-Preventie & Bescherming,CESI-Preventie & Bescherming,1.0,1.0,1.0
+Companions,Companions,1.0,1.0,1.0
+Optimile,Optimile,1.0,1.0,1.0
+Optimile,Uptime Group,0.7647222222222223,0.8194444444444445,0.71
+Optimile,Option Media,0.7016666666666667,0.8333333333333334,0.57
+Optimile,Protime,0.7417460317460318,0.8134920634920636,0.67
+AG Solution,AG Solution,1.0,1.0,1.0
+AG Solution,Agiliz NV,0.6611111111111111,0.8222222222222222,0.5
+AG Solution,Agristo,0.6247619047619047,0.8095238095238095,0.44
+AG Solution,Agfa,0.7683333333333333,0.8666666666666667,0.67
+Proximus,Proximus SpearIT,0.95,0.9,1.0
+Proximus,Proximus,1.0,1.0,1.0
+Proximus,Protime,0.7579166666666667,0.8458333333333333,0.67
+AT Recruitment,Auto1 Group,0.695,0.82,0.57
+AT Recruitment,Actum Services,0.695,0.82,0.57
+AT Recruitment,Attentia,0.6000000000000001,0.8,0.4
+AT Recruitment,Antea Belgium,0.695,0.82,0.57
+AT Recruitment,Azteq,0.695,0.82,0.57
+AT Recruitment,Antea Group,0.695,0.82,0.57
+AT Recruitment,Athora Belgium,0.6611111111111111,0.8222222222222222,0.5
+Cheops Technology,Cheops Technology,1.0,1.0,1.0
+Cheops Technology,Feops,0.7761111111111112,0.8222222222222223,0.73
+Cheops Technology,Cheops,1.0,1.0,1.0
+Cheops Technology,Chevron Phillips Chemicals,0.6002564102564103,0.8205128205128205,0.38
+Headcount Gent NV,Headit,0.6690476190476191,0.8380952380952381,0.5
+Ufinity,Ufinity,1.0,1.0,1.0
+Ufinity,Unifly,0.7121428571428572,0.8042857142857143,0.62
+Colruyt Group,Colruyt Group,1.0,1.0,1.0
+Tabaknatie,Tabaknatie,1.0,1.0,1.0
+Classo Technology Group,Laco,0.7027777777777777,0.8055555555555555,0.6
+Classo Technology Group,Cas-Vos,0.7121428571428572,0.8042857142857143,0.62
+Classo Technology Group,Classified Cycling,0.6211111111111111,0.8222222222222222,0.42
+Classo Technology Group,Colas Belgium,0.785,0.8400000000000001,0.73
+Mediahuis NV,Mediahuis,1.0,1.0,1.0
+Mediahuis NV,Mediafin,0.7966666666666666,0.8833333333333333,0.71
+Febelco CV,Febelco,0.97,0.9400000000000001,1.0
+Gudrun Commercial NV,Gudrun,0.9352941176470588,0.8705882352941177,1.0
+Vanbreda Risk & Benefits,Vanbreda Risk & Benefits,1.0,1.0,1.0
+Xtra Works,Xtra Works,1.0,1.0,1.0
+Stadim,Stad Antwerpen,0.8666666666666667,0.9333333333333333,0.8
+Stadim,Stadim,1.0,1.0,1.0
+Umami Catering,Umami Catering,1.0,1.0,1.0
+Amista,Amista,1.0,1.0,1.0
+Savaco NV,Savaco,1.0,1.0,1.0
+Resilient Business BV,Resilient Business BV,1.0,1.0,1.0
+Inchcape,VAN IN,0.6000000000000001,0.8,0.4
+PIAGroup Belgium,PIA Group,0.7020833333333334,0.8541666666666666,0.55
+Mediahuis Technology & Product Studio,Mediahuis,0.9346153846153846,0.8692307692307693,1.0
+Bluu,Bluu,1.0,1.0,1.0
+Bluu,Bluecrux,0.7766666666666667,0.8833333333333334,0.67
+Remant Transport Architects,Remant Transport Architects,1.0,1.0,1.0
+Remant Transport Architects,Recruitment Architects,0.7551146384479718,0.5102292768959436,1.0
+Lemon,Lemon,1.0,1.0,1.0
+Agiliz NV,AG Solution,0.6611111111111111,0.8222222222222222,0.5
+Agiliz NV,Agiliz NV,1.0,1.0,1.0
+Beauty Inn BV,Beauty Inn BV,1.0,1.0,1.0
+Orfit Industries NV,Orfit,0.93125,0.8625,1.0
+Orfit Industries NV,Maes Industries,0.7277146464646465,0.655429292929293,0.8
+Orfit Industries NV,Asco Industries,0.7694444444444445,0.7388888888888889,0.8
+Coca-Cola,Coca-Cola,1.0,1.0,1.0
+BENTON,Beko Belgium,0.7,0.8,0.6
+BENTON,BENTON,1.0,1.0,1.0
+BENTON,Beko,0.7,0.8,0.6
+Jobat,Jobat,1.0,1.0,1.0
+On IT BV,On IT BV,1.0,1.0,1.0
+Mylan EPD BV,Mylan EPD BV,1.0,1.0,1.0
+Trifinance,TriFinance,1.0,1.0,1.0
+Trifinance,Trigion,0.7033333333333334,0.8166666666666667,0.59
+KMO Dynamoo,KMDA,0.5501515151515152,0.8303030303030303,0.27
+Baltimore Aircoil International,Baltimore Aircoil International,1.0,1.0,1.0
+Baltimore Aircoil International,DHL International,0.7515928737086233,0.6331857474172464,0.87
+Baltimore Aircoil International,Casa International,0.7570405509874201,0.6740811019748402,0.84
+DPD,DPG Media,0.7461111111111112,0.8222222222222222,0.67
+Bank Van Breda,Bank Van Breda,1.0,1.0,1.0
+Bank Van Breda,Bank DeGroof,0.7191666666666667,0.8683333333333334,0.57
+Bank Van Breda,Bank Delen,0.7257142857142858,0.8514285714285714,0.6
+Vlinvesta NV,Pluginvest,0.782962962962963,0.825925925925926,0.74
+Vlinvesta NV,Vlinvesta NV,1.0,1.0,1.0
+Unilin,Building Technology,0.7647222222222223,0.8194444444444445,0.71
+Unilin,Unilin,1.0,1.0,1.0
+Unilin,Unifly,0.7572222222222222,0.8444444444444443,0.67
+Whitewood Capital,Whitewood,0.9529411764705882,0.9058823529411765,1.0
+Enersee,Enersee,1.0,1.0,1.0
+Conway,Conway,1.0,1.0,1.0
+The Harbour,The Harbour,1.0,1.0,1.0
+The Harbour,Haribo,0.8322222222222222,0.8944444444444445,0.77
+Carglass NV,Carglass,1.0,1.0,1.0
+Carglass NV,Ciner Glass Belgium,0.7967045454545454,0.8534090909090908,0.74
+Provincie Antwerpen,Protime,0.7248148148148148,0.8296296296296296,0.62
+Cordeel Group,Cordeel Group,1.0,1.0,1.0
+Mohawk International Services BV,DHL International,0.7907544757033248,0.7115089514066496,0.87
+Mohawk International Services BV,Casa International,0.7675845410628019,0.6951690821256039,0.84
+CKV Bank,KBC Bank,0.7857142857142858,0.8214285714285715,0.75
+Brainbridge BV,Brainbridge,0.9785714285714285,0.9571428571428571,1.0
+Solix Search,Solix Search,1.0,1.0,1.0
+YAASS!,YAASS!,1.0,1.0,1.0
+YAASS!,Yara Belgium,0.7350000000000001,0.8,0.67
+Anthony Cranes,Anthony Cranes,1.0,1.0,1.0
+Anthony Cranes,Anoa Care,0.7163756613756613,0.8227513227513228,0.61
+Anthony Cranes,Athora Belgium,0.7142857142857144,0.8285714285714287,0.6
+DC Dredging,DC Dredging,1.0,1.0,1.0
+DC Dredging,Jan De Nul-Dredging,0.742706228956229,0.6454124579124579,0.84
+Contec BV,On IT BV,0.6977777777777777,0.8055555555555555,0.59
+Contec BV,CONTENTI,0.7130555555555556,0.836111111111111,0.59
+Banijay Belgium,Banijay Belgium,1.0,1.0,1.0
+Banijay Belgium,Tobania,0.7597619047619049,0.8095238095238096,0.71
+Brand Quadergy,Brand Quadergy,1.0,1.0,1.0
+Collectief,Collectief,1.0,1.0,1.0
+Collectief,Om Collective,0.8035327635327636,0.827065527065527,0.78
+Collectief,Collibra,0.6925000000000001,0.8250000000000001,0.56
+Impact Interim,IMPACT,0.9428571428571428,0.8857142857142858,1.0
+Impact Interim,Impact Sales & Marketing Belux,0.719047619047619,0.8380952380952381,0.6
+Hyperion,Hyperion,1.0,1.0,1.0
+Allen & Overy,Allen & Overy,1.0,1.0,1.0
+Resengo,Resengo,1.0,1.0,1.0
+Bubka,Bubka,1.0,1.0,1.0
+Trixolutions,Trixolutions,1.0,1.0,1.0
+Trixolutions,Trigion,0.7205555555555556,0.8111111111111111,0.63
+Insilencio,Insilencio,1.0,1.0,1.0
+AB Inbev,AB Inbev,1.0,1.0,1.0
+AB Inbev,ABB NV,0.6916666666666667,0.8333333333333333,0.55
+AB Inbev,ABB,0.6916666666666667,0.8333333333333333,0.55
+Cronos Groep,Companions,0.65,0.8,0.5
+Cronos Groep,Credon,0.7461111111111112,0.8222222222222222,0.67
+Investr,Pluginvest,0.7645238095238096,0.8190476190476191,0.71
+Investr,Inovet,0.8246825396825397,0.8793650793650793,0.77
+Investr,VAN IN,0.6247619047619047,0.8095238095238095,0.44
+Investr,Investr,1.0,1.0,1.0
+Investr,Indaver,0.7788095238095238,0.8476190476190477,0.71
+Upthrust,Upthrust,1.0,1.0,1.0
+GIMV,GIMV,1.0,1.0,1.0
+Kunnig,Kunnig,1.0,1.0,1.0
+Bank Degroof,Bank Van Breda,0.7191666666666667,0.8683333333333334,0.57
+Bank Degroof,Bank DeGroof,1.0,1.0,1.0
+Bank Degroof,Bank Delen,0.7483333333333333,0.8566666666666667,0.64
+Pauwels N.V,Pauwels N.V,1.0,1.0,1.0
+Pauwels N.V,Pauwels,0.9636363636363636,0.9272727272727272,1.0
+Brouwerij Martens,Brouwerij Haacht,0.8105882352941176,0.8911764705882353,0.73
+Brouwerij Martens,Brouwerij Martens,1.0,1.0,1.0
+Brouwerij Martens,Brouwerij Alken Maes,0.8299019607843137,0.8998039215686274,0.76
+Sodibe,Sodibe,1.0,1.0,1.0
+Sodibe,Sodexo Belgium,0.7572222222222222,0.8444444444444443,0.67
+Sunweb,Sunweb,1.0,1.0,1.0
+IKEA,Sika Group,0.7916666666666667,0.8333333333333334,0.75
+IKEA,IKEA,1.0,1.0,1.0
+IKEA,Nike,0.7916666666666667,0.8333333333333334,0.75
+IKEA,Kela,0.7916666666666667,0.8333333333333334,0.75
+Belgische Federatie Filantropische Stichtingen,Belgische Federatie Filantropische Stichtingen,1.0,1.0,1.0
+Belgische Federatie Filantropische Stichtingen,The Belgian,0.5452173913043479,0.8304347826086957,0.26
+Agfa Gevaert,Agfa Gevaert,1.0,1.0,1.0
+Agfa Gevaert,Agfa,0.9333333333333333,0.8666666666666666,1.0
+Agfa Gevaert,Agfa-Gevaert,0.9833333333333333,0.9666666666666666,1.0
+Agfa Gevaert,Agfa HealthCare,0.735,0.88,0.59
+UZA,UZA,1.0,1.0,1.0
+Toreon,threon,0.865,0.9,0.83
+Toreon,Tormans Group,0.721111111111111,0.8222222222222222,0.62
+Toreon,Toreon,1.0,1.0,1.0
+Mood.Management,Mood.Management,1.0,1.0,1.0
+Kuehne + Nagel,Kuehne + Nagel,1.0,1.0,1.0
+Halito,Halito - Invitedesk,0.9315789473684211,0.8631578947368421,1.0
+Halito,Haribo,0.7461111111111112,0.8222222222222222,0.67
+Halito,Hasinto,0.8246825396825397,0.8793650793650793,0.77
+PATROBA Family Bakers NV,PATROBA Family Bakers NV,1.0,1.0,1.0
+Smartwithfood,Smartmat / Foodbag,0.6374786324786325,0.864957264957265,0.41
+Smartwithfood,Smartwithfood,1.0,1.0,1.0
+Om Collective,Collectief,0.8035327635327636,0.827065527065527,0.78
+Om Collective,Om Collective,1.0,1.0,1.0
+Om Collective,We are Impact Collective,0.7694017094017094,0.6688034188034188,0.87
+O2O,O2O,1.0,1.0,1.0
+Engie,Engie,1.0,1.0,1.0
+Engie,ENITEQ Engineering,0.7938888888888889,0.8577777777777779,0.73
+Telenet,Telenet,1.0,1.0,1.0
+Telenet,Telenet (dubbel - zie cx),0.928,0.8560000000000001,1.0
+Telenet,Telenet Retail,0.95,0.9,1.0
+Yuki,Yuki Visma,0.94,0.88,1.0
+Laco,Lannoo,0.7,0.8,0.6
+Laco,Van Lanschot,0.7683333333333333,0.8666666666666667,0.67
+Laco,Lancesoft Europe,0.7359259259259259,0.8518518518518519,0.62
+Laco,Laco,1.0,1.0,1.0
+Laco,Alcon,0.76,0.85,0.67
+DPG Media,DPG Media,1.0,1.0,1.0
+Reynaers Aluminium,Reynaers Aluminium,1.0,1.0,1.0
+Smart Presentations,Smart Presentations,1.0,1.0,1.0
+ION,ION,1.0,1.0,1.0
+ION,VAN IN,0.7055555555555555,0.611111111111111,0.8
+ION,Bimona,0.7516666666666667,0.8333333333333334,0.67
+BDO,BDO,1.0,1.0,1.0
+USG Professionals,USG Professionals,1.0,1.0,1.0
+Matexi,Groep Maes,0.7,0.8,0.6
+Matexi,Mext,0.7124999999999999,0.825,0.6
+Matexi,Matexi,1.0,1.0,1.0
+Keyrus,Keyrus,1.0,1.0,1.0
+Sligro,Sligro,1.0,1.0,1.0
+Sligro,Sligro Food Group Belgium,0.9545454545454546,0.9090909090909091,1.0
+Vooruitzicht,Vooruitzicht,1.0,1.0,1.0
+Springbok Agency,Springbok Agency,1.0,1.0,1.0
+KA Construct,KA Contsruct,0.9516666666666667,0.9833333333333333,0.92
+Melexis,Melexis,1.0,1.0,1.0
+Spacewell,Spacewell,1.0,1.0,1.0
+DSV,DSV,1.0,1.0,1.0
+DSV,DSV Air & Sea,0.9102564102564102,0.8205128205128205,1.0
+DSV,DSV Road,0.9270833333333333,0.8541666666666666,1.0
+Vivaldis Interim,Vivaldis Interim,1.0,1.0,1.0
+Coolblue,Coolblue,1.0,1.0,1.0
+MobilityPlus,MobilityPlus,1.0,1.0,1.0
+MobilityPlus,De Mobiliteitsmakelaar,0.6712573099415204,0.8225146198830409,0.52
+MobilityPlus,Mobility Masters,0.71625,0.8625,0.57
+MobilityPlus,Mobix,0.6483333333333333,0.8266666666666667,0.47
+Eubelius,Eubelius,1.0,1.0,1.0
+Besix Infra Support,Besix Infra,0.9578947368421052,0.9157894736842105,1.0
+Movify,Movify,1.0,1.0,1.0
+Covestro,Covestro,1.0,1.0,1.0
+Lidl,Lidl,1.0,1.0,1.0
+Actum,Actum Services,1.0,1.0,1.0
+Actum,Actoplus,0.7283333333333333,0.8366666666666667,0.62
+Gumption Group,TheValueChain Gumption,0.7386363636363636,0.4772727272727273,1.0
+Gumption Group,Gumption Group,1.0,1.0,1.0
+Gumption Group,Option Media,0.7647222222222223,0.8194444444444445,0.71
+Atlas Copco,Atlas Copco,1.0,1.0,1.0
+Atlas Copco,Atlas Copco Airpower,0.9550000000000001,0.91,1.0
+AS Adventure,AS Adventure,1.0,1.0,1.0
+Aphea.Bio NV,Aphea.Bio,1.0,1.0,1.0
+Qteam,Q Team,0.93,0.9500000000000001,0.91
+Sibelga,Sibelga,1.0,1.0,1.0
+Sibelga,The Belgian,0.7597619047619049,0.8095238095238096,0.71
+Xplore Group,Xplore Group,1.0,1.0,1.0
+Sofico,Sofico,1.0,1.0,1.0
+Turbulent,Turbulent,1.0,1.0,1.0
+Turbulent,Transnubel,0.6102380952380952,0.8004761904761906,0.42
+Beko,Beko Belgium,1.0,1.0,1.0
+Beko,BENTON,0.7,0.8,0.6
+Beko,Beko,1.0,1.0,1.0
+Fashion Society,ZEB (Fashion Society),0.907936507936508,0.815873015873016,1.0
+Unilever Belgium,Unilin,0.7016666666666667,0.8333333333333334,0.57
+Unilever Belgium,Universiteit Antwerpen,0.7034722222222223,0.8069444444444445,0.6
+Unilever Belgium,Unifly,0.6877777777777778,0.8055555555555556,0.57
+BelOrta,BelOrta,1.0,1.0,1.0
+BelOrta,Boels Rental,0.7310714285714286,0.8321428571428573,0.63
+BelOrta,The Belgian,0.685,0.8,0.57
+Woonhaven Antwerpen,Woonhaven Antwerpen,1.0,1.0,1.0
+Lunch Garden,Lunch Garden,1.0,1.0,1.0
+De Vijver,De Vijver VZW,0.96,0.92,1.0
+Brouwerij Haacht,Brouwerij Haacht,1.0,1.0,1.0
+Brouwerij Haacht,Brouwerij Martens,0.8105882352941176,0.8911764705882353,0.73
+Brouwerij Haacht,Brouwerij Alken Maes,0.7949999999999999,0.87,0.72
+Update-pro,Update-pro,1.0,1.0,1.0
+Actoplus,Actum Services,0.7283333333333333,0.8366666666666667,0.62
+Actoplus,Actoplus,1.0,1.0,1.0
+Actoplus,Action Belgium,0.6877777777777778,0.8055555555555556,0.57
+Sereni,Sereni,1.0,1.0,1.0
+Vlaamse Landmaatschappij,Vlaamse Landmaatschappij,1.0,1.0,1.0
+Aldi,Aldi,1.0,1.0,1.0
+Cummins,Cummins,1.0,1.0,1.0
+Cummins,Luminus,0.7597619047619049,0.8095238095238096,0.71
+Geosquare,Geo Square NV,0.9633333333333334,0.9766666666666667,0.95
+Ecopower,Ecopower,1.0,1.0,1.0
+Ecopower,EconCore,0.7322222222222222,0.8444444444444444,0.62
+Bpost,Bpost,1.0,1.0,1.0
+Bpost,bpost bank,0.95,0.9,1.0
+Bpost,Biobest Group,0.7407142857142857,0.8114285714285714,0.67
+Dynapps,Dynapps,1.0,1.0,1.0
+The Foodmaker,The Foodmaker,1.0,1.0,1.0
+Buildr,Building Technology,0.8008333333333333,0.8916666666666667,0.71
+Buildr,Buildr,1.0,1.0,1.0
+Inovet,Inovet,1.0,1.0,1.0
+Inovet,VAN IN,0.6611111111111111,0.8222222222222222,0.5
+Inovet,Investr,0.8246825396825397,0.8793650793650793,0.77
+Inovet,In The Pocket,0.7535185185185185,0.837037037037037,0.67
+Haribo,The Harbour,0.8322222222222222,0.8944444444444445,0.77
+Haribo,Haribo,1.0,1.0,1.0
+Jeco Energies,Jeco Energies,1.0,1.0,1.0
+Sika,Sika Group,1.0,1.0,1.0
+Sika,IKEA,0.7916666666666667,0.8333333333333334,0.75
+Greenyard Frozen Belgium,Greenyard Frozen Belgium,1.0,1.0,1.0
+Greenyard Frozen Belgium,Greenomy,0.6669642857142857,0.8339285714285715,0.5
+Greenyard Frozen Belgium,Greenyard Fresh Belgium,0.8879166666666667,0.9358333333333334,0.84
+Greenyard Frozen Belgium,Greenyard Logistics Belgium,0.7866447368421052,0.8532894736842106,0.72
+Ambuce Rescue Team NV,Q Team,0.6314814814814815,0.46296296296296297,0.8
+Groep Maes,Groep Maes,1.0,1.0,1.0
+Groep Maes,Maes Industries,0.9266666666666666,0.8533333333333333,1.0
+Groep Maes,Brouwerij Alken Maes,0.6833333333333333,0.3666666666666667,1.0
+Groep Maes,Matexi,0.7,0.8,0.6
+Groep Maes,Marsh,0.7483333333333333,0.8266666666666667,0.67
+Groep Maes,Mars Belgium,0.8083333333333333,0.8666666666666667,0.75
+Manna,Manuchar,0.7283333333333333,0.8366666666666667,0.62
+Van Moer,Motrac,0.7,0.8,0.6
+Van Moer,Van Moer Logistics,0.9285714285714286,0.8571428571428571,1.0
+Van Moer,Van Moer Rail,0.9444444444444444,0.888888888888889,1.0
+Van Moer,Mourik,0.7,0.8,0.6
+Van Moer,Van Moer Distribution,0.9235294117647059,0.8470588235294118,1.0
+Astara,astara Western Europe NV,0.9428571428571428,0.8857142857142858,1.0
+Astara,ASAP,0.7,0.8,0.6
+Fero Group,Feops,0.7483333333333333,0.8266666666666667,0.67
+Fero Group,Ferm Huishoudhulp,0.6007843137254902,0.8215686274509804,0.38
+KBC,KBC,1.0,1.0,1.0
+KBC,KBC Groep,1.0,1.0,1.0
+KBC,KBC Verzekeringen,0.903921568627451,0.807843137254902,1.0
+KBC,KBC Bank,0.9270833333333333,0.8541666666666666,1.0
+Carerix B.V.,Care,0.6983333333333333,0.8666666666666666,0.53
+Board of Innovation,Board of Innovation,1.0,1.0,1.0
+Facilicom,Facilicom,1.0,1.0,1.0
+Facilicom,Fabricom,0.755,0.8,0.71
+SGS,SGS Group,1.0,1.0,1.0
+Kingsberry,Kingsberry,1.0,1.0,1.0
+Grizzly Marketing,Grizzly Marketing,1.0,1.0,1.0
+Goed,Goed,1.0,1.0,1.0
+Goed,Goed Farma,0.94,0.88,1.0
+Goed,Goed Hulpmiddelen,0.9235294117647059,0.8470588235294118,1.0
+4P Square,Geo Square NV,0.812962962962963,0.825925925925926,0.8
+4P Square,4P square,1.0,1.0,1.0
+NMBS-SNCB,NMBS-SNCB,1.0,1.0,1.0
+NMBS-SNCB,NMBS,0.9444444444444444,0.888888888888889,1.0
+Yontec,Yontec NV,1.0,1.0,1.0
+Yontec,Ontex,0.7761111111111112,0.8222222222222223,0.73
+AXA Belgium,AXA Belgium,1.0,1.0,1.0
+AXA Belgium,AXI,0.7461111111111112,0.8222222222222222,0.67
+Boels Rental,BelOrta,0.7310714285714286,0.8321428571428573,0.63
+Boels Rental,Boels Rental,1.0,1.0,1.0
+Gilbert De Clercq,Gilbert de Clerck,0.9507142857142857,0.9714285714285714,0.93
+ACC,ACC,1.0,1.0,1.0
+Agristo,AG Solution,0.6247619047619047,0.8095238095238095,0.44
+Agristo,Agristo,1.0,1.0,1.0
+Verina Bourdon,Verisure,0.5978571428571429,0.8357142857142857,0.36
+Natuurpunt,Natuurpunt,1.0,1.0,1.0
+Natuurpunt,Natura Mater,0.635,0.8200000000000001,0.45
+Natuurpunt,Natuurpunt Beheer,0.9588235294117647,0.9176470588235295,1.0
+Threon,threon,1.0,1.0,1.0
+Threon,Kreon,0.7761111111111112,0.8222222222222223,0.73
+Threon,Toreon,0.865,0.9,0.83
+Korian,Korian,1.0,1.0,1.0
+Korian,Ordina Belgium,0.7461111111111112,0.8222222222222223,0.67
+Toqua,Toqua,1.0,1.0,1.0
+ElmosExperts,ElmosExpert,0.9716666666666667,0.9833333333333333,0.96
+G4S Global,G4S Global,1.0,1.0,1.0
+G4S Global,HH Global,0.7891534391534392,0.7783068783068784,0.8
+G4S Global,G4S Care NV,0.6925000000000001,0.8250000000000001,0.56
+Soudal,Soudal,1.0,1.0,1.0
+Delhaize,Delhaize,1.0,1.0,1.0
+Delhaize,Delaware,0.7224999999999999,0.825,0.62
+BASF,BASF,1.0,1.0,1.0
+OXYGEN,Oxygen,1.0,1.0,1.0
+Tormans Group,Torfs,0.7616666666666667,0.8533333333333333,0.67
+Tormans Group,Tormans Group,1.0,1.0,1.0
+Tormans Group,Toreon,0.721111111111111,0.8222222222222222,0.62
+Mext Group,Mext,1.0,1.0,1.0
+Mext Group,Matexi,0.7124999999999999,0.825,0.6
+Torfs,Torfs,1.0,1.0,1.0
+Torfs,Tormans Group,0.7616666666666667,0.8533333333333333,0.67
+lannoo uitgeverij,Lannoo,0.9352941176470588,0.8705882352941177,1.0
+DB Schenker,Schenker,0.9545454545454546,0.9090909090909092,1.0
+Axxes IT Consultancy,Axxes,0.9625,0.925,1.0
+MSC Belgium NV,MSC Shipping,0.9125,0.825,1.0
+Desco,Desco,1.0,1.0,1.0
+Q8,Q8,1.0,1.0,1.0
+Fiduciaire Ten Hove,Fiducre,0.7068421052631579,0.8736842105263157,0.54
+Makro Cash & Carry Belgium,Marsh,0.5937037037037036,0.8074074074074074,0.38
+TalentBay,TalentBay,1.0,1.0,1.0
+Up Time Groep,Uptime Group,0.790952380952381,0.9619047619047619,0.62
+Up Time Groep,Up Time Groep,1.0,1.0,1.0
+Up Time Groep,Protime,0.6897619047619048,0.8095238095238096,0.57
+Potemkino,Protime,0.6535714285714286,0.8071428571428572,0.5
+Arxus,Arxus,1.0,1.0,1.0
+ePact,ePact,1.0,1.0,1.0
+ePact,IMPACT,0.7761111111111112,0.8222222222222223,0.73
+Euroports Group BV,Euroports Group BV,1.0,1.0,1.0
+Euroports Group BV,Euronav,0.6230952380952381,0.8261904761904763,0.42
