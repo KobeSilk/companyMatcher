@@ -4,7 +4,7 @@ from fuzzywuzzy import fuzz
 import re
 import streamlit as st
 
-st.title = "Company Name matching"
+st.header("Silk Company Name Matcher",divider="rainbow",help="This tool is used to fuzzy match company names, upload two lists and choose the columns and you can export the matches. The matching is done based on the Jaro Winkler Similarity and the Token Set Similarity. A score of 1 means it's a 100% match.")
 
 #Convert dataframe to csv
 @st.cache_data
@@ -23,7 +23,6 @@ def preprocess_name(name):
     core_words = [word for word in words if word not in droplist]
     name = " ".join(core_words)
     return name
-
 #Preprocess list to ensure there are no duplicates
 def preprocess_list(input_list):
     processed_dict = {}
@@ -54,38 +53,51 @@ def compare_company_names_optimized(list1, list2, threshold=0.8, penalty=0.2,len
 #Upload file
 
 # Upload file 1
-list1 = st.file_uploader(label="Please upload list 1", type="csv", key="list1")
-if list1 is not None:
-    if "df1" not in st.session_state:
-        st.session_state.df1 = pd.read_csv(list1, encoding='utf-8-sig')
-    df1 = st.session_state.df1
-    columnName = st.selectbox(
-        label="Please select column with company names (List 1)",
-        options=df1.columns,
-        key="column1"
-    )
+
+col1, col2 = st.columns(2)
+with col1:
+    list1 = st.file_uploader(label="Please upload list 1", type="csv", key="list1")
+    if list1 is not None:
+        has_headers1 = st.checkbox("List 1 has headers", value=True, key="headers1")
+        df1 = pd.read_csv(
+            list1, 
+            encoding='utf-8-sig', 
+            header=0 if has_headers1 else None
+            )
+        st.dataframe(df1)
+        columnName = st.selectbox(
+            label="Please select column with company names (List 1)",
+            options=df1.columns,
+            key="column1"
+        )
 
 # Upload file 2
-list2 = st.file_uploader(label="Please upload list 2", type="csv", key="list2")
-if list2 is not None:
-    if "df2" not in st.session_state:
-        st.session_state.df2 = pd.read_csv(list2, encoding='utf-8-sig')
-    df2 = st.session_state.df2
-    columnName2 = st.selectbox(
-        label="Please select column with company names (List 2)",
-        options=df2.columns,
-        key="column2"
-    )
+with col2:
+    list2 = st.file_uploader(label="Please upload list 2", type="csv", key="list2")
+    if list2 is not None:
+        has_headers2 = st.checkbox("List 2 has headers", value=True, key="headers2")
+        df2 = pd.read_csv(
+            list2, 
+            encoding='utf-8-sig', 
+            header=0 if has_headers2 else None
+        )
+        st.dataframe(df2)
+        columnName2 = st.selectbox(
+            label="Please select column with company names (List 2)",
+            options=df2.columns,
+            key="column2"
+        )
+
 
 # Match Names Button
-if list1 and list2 and "df1" in st.session_state and "df2" in st.session_state:
-    companies1 = st.session_state.df1[st.session_state.column1].tolist()
-    companies2 = st.session_state.df2[st.session_state.column2].tolist()
+if list1 and list2 is not None:
+    st.divider()
+    companies1 = df1[st.session_state.column1].tolist()
+    companies2 = df2[st.session_state.column2].tolist()
 
     if st.button(label="Match Names"):
-        if "matches" not in st.session_state:
-            st.session_state.matches = compare_company_names_optimized(companies1, companies2)
-        matches = st.session_state.matches
+        matches = compare_company_names_optimized(companies1, companies2)
+        st.write("Here are the matched company names.")
         st.dataframe(matches)
         csv = convert_df(matches)
         st.download_button("Export table to CSV",data=csv, file_name="Company Name Match.csv", mime="text/csv")
