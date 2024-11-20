@@ -1,4 +1,4 @@
-import jellyfish
+from jarowinkler import *
 import pandas as pd
 from fuzzywuzzy import fuzz
 import re
@@ -40,7 +40,7 @@ def compare_company_names_optimized(list1, list2, threshold=0.8, penalty=0.2,len
         for clean_name2, original_name2 in processed_list2.items():
             clean_name2 = preprocess_name(clean_name2)
             # Calculate similarity scores
-            jw_similarity = jellyfish.jaro_winkler_similarity(clean_name1, clean_name2)
+            jw_similarity = jarowinkler_similarity(clean_name1, clean_name2)
             token_similarity = fuzz.token_set_ratio(clean_name1, clean_name2) / 100
             combined_similarity = 0.6*jw_similarity + 0.4*token_similarity
             
