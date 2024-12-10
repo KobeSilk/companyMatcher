@@ -61,7 +61,8 @@ with col1:
         has_headers1 = st.checkbox("List 1 has headers", value=True, key="headers1")
         df1 = pd.read_csv(
             list1, 
-            encoding='utf-8-sig', 
+            encoding='utf-8-sig',
+            sep=None,engine='python',
             header=0 if has_headers1 else None
             )
         st.dataframe(df1)
@@ -78,7 +79,8 @@ with col2:
         has_headers2 = st.checkbox("List 2 has headers", value=True, key="headers2")
         df2 = pd.read_csv(
             list2, 
-            encoding='utf-8-sig', 
+            encoding='utf-8-sig',
+            sep=None,engine='python',
             header=0 if has_headers2 else None
         )
         st.dataframe(df2)
